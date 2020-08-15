@@ -21,7 +21,7 @@
 
 <br /><br />
 
-## :zap: Recent Activity
+## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#77](https://github.com//datasets/covid-19/issues/77) in [datasets/covid-19](https://github.com//datasets/covid-19)
