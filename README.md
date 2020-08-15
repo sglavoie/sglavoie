@@ -1,6 +1,7 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [My Current Set of Tools and Customizations](https://www.sglavoie.com/posts/2020/06/06/my-current-set-of-tools-and-customizations/)
 - [Tip the Scales in Times of Instability With the Rock-Solid Debian](https://www.sglavoie.com/posts/2020/04/05/tip-the-scales-in-times-of-instability-with-the-rock-solid-debian/)
 - [Ignoring Sync of Local Files to Dropbox on Linux](https://www.sglavoie.com/posts/2019/11/30/ignoring-sync-of-local-files-to-dropbox-on-linux/)
@@ -17,6 +18,14 @@
 [<img align="left" alt="sglavoie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sglavoie | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="sglavoie | HackRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+
+<br /><br />
+
+## GitHub Stats
+
+<img alt="sglavoie's Github Stats" src="https://github-readme-stats.sglavoie.vercel.app/api?username=sglavoie&show_icons=true&hide_border=true" />
+
+<br /><br />
 
 [hackerrank]: https://www.hackerrank.com/sglavoie
 [rss]: https://www.sglavoie.com/feeds/sglavoie.rss.xml
