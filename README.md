@@ -21,6 +21,13 @@
 
 <br /><br />
 
+## :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+
+<br /><br />
+
 ## GitHub Stats
 
 <img alt="sglavoie's Github Stats" src="https://github-readme-stats.sglavoie.vercel.app/api?username=sglavoie&show_icons=true&hide_border=true" />
