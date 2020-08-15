@@ -32,7 +32,7 @@
 <!--END_SECTION:activity-->
 
 
-<br /><br />
+<br />
 
 ## GitHub Stats
 
