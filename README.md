@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#280](https://github.com//datopian/datahub-qa/issues/280) in [datopian/datahub-qa](https://github.com//datopian/datahub-qa)
-2. 🗣 Commented on [#260](https://github.com//datopian/datahub-qa/issues/260) in [datopian/datahub-qa](https://github.com//datopian/datahub-qa)
-3. 💪 Opened PR [#93](https://github.com//datasets/covid-19/pull/93) in [datasets/covid-19](https://github.com//datasets/covid-19)
-4. 🎉 Merged PR [#128](https://github.com//frictionlessdata/website/pull/128) in [frictionlessdata/website](https://github.com//frictionlessdata/website)
-5. 💪 Opened PR [#128](https://github.com//frictionlessdata/website/pull/128) in [frictionlessdata/website](https://github.com//frictionlessdata/website)
+1. 🗣 Commented on [#1484](https://github.com//openspending/openspending/issues/1484) in [openspending/openspending](https://github.com//openspending/openspending)
+2. 🗣 Commented on [#280](https://github.com//datopian/datahub-qa/issues/280) in [datopian/datahub-qa](https://github.com//datopian/datahub-qa)
+3. 🗣 Commented on [#260](https://github.com//datopian/datahub-qa/issues/260) in [datopian/datahub-qa](https://github.com//datopian/datahub-qa)
+4. 💪 Opened PR [#93](https://github.com//datasets/covid-19/pull/93) in [datasets/covid-19](https://github.com//datasets/covid-19)
+5. 🎉 Merged PR [#128](https://github.com//frictionlessdata/website/pull/128) in [frictionlessdata/website](https://github.com//frictionlessdata/website)
 <!--END_SECTION:activity-->
 
 
