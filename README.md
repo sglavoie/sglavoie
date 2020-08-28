@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#260](https://github.com//datopian/datahub-qa/issues/260) in [datopian/datahub-qa](https://github.com//datopian/datahub-qa)
-2. 🗣 Commented on [#260](https://github.com//datopian/datahub-qa/issues/260) in [datopian/datahub-qa](https://github.com//datopian/datahub-qa)
-3. 🗣 Commented on [#531](https://github.com//frictionlessdata/project/issues/531) in [frictionlessdata/project](https://github.com//frictionlessdata/project)
-4. 🗣 Commented on [#1483](https://github.com//openspending/openspending/issues/1483) in [openspending/openspending](https://github.com//openspending/openspending)
-5. 🗣 Commented on [#1484](https://github.com//openspending/openspending/issues/1484) in [openspending/openspending](https://github.com//openspending/openspending)
+1. 💪 Opened PR [#5](https://github.com//datopian/tech.datopian.com/pull/5) in [datopian/tech.datopian.com](https://github.com//datopian/tech.datopian.com)
+2. ❗️ Closed issue [#260](https://github.com//datopian/datahub-qa/issues/260) in [datopian/datahub-qa](https://github.com//datopian/datahub-qa)
+3. 🗣 Commented on [#260](https://github.com//datopian/datahub-qa/issues/260) in [datopian/datahub-qa](https://github.com//datopian/datahub-qa)
+4. 🗣 Commented on [#531](https://github.com//frictionlessdata/project/issues/531) in [frictionlessdata/project](https://github.com//frictionlessdata/project)
+5. 🗣 Commented on [#1483](https://github.com//openspending/openspending/issues/1483) in [openspending/openspending](https://github.com//openspending/openspending)
 <!--END_SECTION:activity-->
 
 
