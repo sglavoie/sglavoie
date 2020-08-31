@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com//datopian/tech.datopian.com/issues/7) in [datopian/tech.datopian.com](https://github.com//datopian/tech.datopian.com)
-2. 🗣 Commented on [#7](https://github.com//datopian/tech.datopian.com/issues/7) in [datopian/tech.datopian.com](https://github.com//datopian/tech.datopian.com)
-3. 🗣 Commented on [#6](https://github.com//datopian/tech.datopian.com/issues/6) in [datopian/tech.datopian.com](https://github.com//datopian/tech.datopian.com)
-4. ❗️ Closed issue [#6](https://github.com//datopian/tech.datopian.com/issues/6) in [datopian/tech.datopian.com](https://github.com//datopian/tech.datopian.com)
-5. ❗️ Opened issue [#1486](https://github.com//openspending/openspending/issues/1486) in [openspending/openspending](https://github.com//openspending/openspending)
+1. 🗣 Commented on [#1486](https://github.com//openspending/openspending/issues/1486) in [openspending/openspending](https://github.com//openspending/openspending)
+2. ❗️ Closed issue [#7](https://github.com//datopian/tech.datopian.com/issues/7) in [datopian/tech.datopian.com](https://github.com//datopian/tech.datopian.com)
+3. 🗣 Commented on [#7](https://github.com//datopian/tech.datopian.com/issues/7) in [datopian/tech.datopian.com](https://github.com//datopian/tech.datopian.com)
+4. 🗣 Commented on [#6](https://github.com//datopian/tech.datopian.com/issues/6) in [datopian/tech.datopian.com](https://github.com//datopian/tech.datopian.com)
+5. ❗️ Closed issue [#6](https://github.com//datopian/tech.datopian.com/issues/6) in [datopian/tech.datopian.com](https://github.com//datopian/tech.datopian.com)
 <!--END_SECTION:activity-->
 
 
