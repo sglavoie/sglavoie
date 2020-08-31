@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#531](https://github.com//frictionlessdata/project/issues/531) in [frictionlessdata/project](https://github.com//frictionlessdata/project)
-2. 🗣 Commented on [#531](https://github.com//frictionlessdata/project/issues/531) in [frictionlessdata/project](https://github.com//frictionlessdata/project)
-3. 🎉 Merged PR [#129](https://github.com//frictionlessdata/website/pull/129) in [frictionlessdata/website](https://github.com//frictionlessdata/website)
-4. 💪 Opened PR [#129](https://github.com//frictionlessdata/website/pull/129) in [frictionlessdata/website](https://github.com//frictionlessdata/website)
-5. ❗️ Opened issue [#7](https://github.com//datopian/tech.datopian.com/issues/7) in [datopian/tech.datopian.com](https://github.com//datopian/tech.datopian.com)
+1. ❗️ Opened issue [#1486](https://github.com//openspending/openspending/issues/1486) in [openspending/openspending](https://github.com//openspending/openspending)
+2. ❗️ Closed issue [#531](https://github.com//frictionlessdata/project/issues/531) in [frictionlessdata/project](https://github.com//frictionlessdata/project)
+3. 🗣 Commented on [#531](https://github.com//frictionlessdata/project/issues/531) in [frictionlessdata/project](https://github.com//frictionlessdata/project)
+4. 🎉 Merged PR [#129](https://github.com//frictionlessdata/website/pull/129) in [frictionlessdata/website](https://github.com//frictionlessdata/website)
+5. 💪 Opened PR [#129](https://github.com//frictionlessdata/website/pull/129) in [frictionlessdata/website](https://github.com//frictionlessdata/website)
 <!--END_SECTION:activity-->
 
 
