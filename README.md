@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1486](https://github.com//openspending/openspending/issues/1486) in [openspending/openspending](https://github.com//openspending/openspending)
-2. ❗️ Closed issue [#7](https://github.com//datopian/tech.datopian.com/issues/7) in [datopian/tech.datopian.com](https://github.com//datopian/tech.datopian.com)
-3. 🗣 Commented on [#7](https://github.com//datopian/tech.datopian.com/issues/7) in [datopian/tech.datopian.com](https://github.com//datopian/tech.datopian.com)
-4. 🗣 Commented on [#6](https://github.com//datopian/tech.datopian.com/issues/6) in [datopian/tech.datopian.com](https://github.com//datopian/tech.datopian.com)
-5. ❗️ Closed issue [#6](https://github.com//datopian/tech.datopian.com/issues/6) in [datopian/tech.datopian.com](https://github.com//datopian/tech.datopian.com)
+1. 🗣 Commented on [#91](https://github.com//datasets/covid-19/issues/91) in [datasets/covid-19](https://github.com//datasets/covid-19)
+2. 🗣 Commented on [#91](https://github.com//datasets/covid-19/issues/91) in [datasets/covid-19](https://github.com//datasets/covid-19)
+3. 🗣 Commented on [#94](https://github.com//datasets/covid-19/issues/94) in [datasets/covid-19](https://github.com//datasets/covid-19)
+4. ❗️ Closed issue [#94](https://github.com//datasets/covid-19/issues/94) in [datasets/covid-19](https://github.com//datasets/covid-19)
+5. 🗣 Commented on [#95](https://github.com//datasets/covid-19/issues/95) in [datasets/covid-19](https://github.com//datasets/covid-19)
 <!--END_SECTION:activity-->
 
 
