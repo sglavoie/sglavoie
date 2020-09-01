@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#96](https://github.com//datasets/covid-19/pull/96) in [datasets/covid-19](https://github.com//datasets/covid-19)
-2. 🗣 Commented on [#96](https://github.com//datasets/covid-19/issues/96) in [datasets/covid-19](https://github.com//datasets/covid-19)
-3. 🗣 Commented on [#91](https://github.com//datasets/covid-19/issues/91) in [datasets/covid-19](https://github.com//datasets/covid-19)
-4. 🗣 Commented on [#91](https://github.com//datasets/covid-19/issues/91) in [datasets/covid-19](https://github.com//datasets/covid-19)
-5. 🗣 Commented on [#91](https://github.com//datasets/covid-19/issues/91) in [datasets/covid-19](https://github.com//datasets/covid-19)
+1. 🗣 Commented on [#91](https://github.com//datasets/covid-19/issues/91) in [datasets/covid-19](https://github.com//datasets/covid-19)
+2. 🗣 Commented on [#97](https://github.com//datasets/covid-19/issues/97) in [datasets/covid-19](https://github.com//datasets/covid-19)
+3. 🎉 Merged PR [#97](https://github.com//datasets/covid-19/pull/97) in [datasets/covid-19](https://github.com//datasets/covid-19)
+4. ❌ Closed PR [#96](https://github.com//datasets/covid-19/pull/96) in [datasets/covid-19](https://github.com//datasets/covid-19)
+5. 🗣 Commented on [#96](https://github.com//datasets/covid-19/issues/96) in [datasets/covid-19](https://github.com//datasets/covid-19)
 <!--END_SECTION:activity-->
 
 
