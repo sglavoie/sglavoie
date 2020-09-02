@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#97](https://github.com//datasets/covid-19/issues/97) in [datasets/covid-19](https://github.com//datasets/covid-19)
-2. 🗣 Commented on [#1486](https://github.com//openspending/openspending/issues/1486) in [openspending/openspending](https://github.com//openspending/openspending)
-3. 🗣 Commented on [#91](https://github.com//datasets/covid-19/issues/91) in [datasets/covid-19](https://github.com//datasets/covid-19)
-4. 🗣 Commented on [#97](https://github.com//datasets/covid-19/issues/97) in [datasets/covid-19](https://github.com//datasets/covid-19)
-5. 🎉 Merged PR [#97](https://github.com//datasets/covid-19/pull/97) in [datasets/covid-19](https://github.com//datasets/covid-19)
+1. ❌ Closed PR [#93](https://github.com//datasets/covid-19/pull/93) in [datasets/covid-19](https://github.com//datasets/covid-19)
+2. 🗣 Commented on [#93](https://github.com//datasets/covid-19/issues/93) in [datasets/covid-19](https://github.com//datasets/covid-19)
+3. 🗣 Commented on [#97](https://github.com//datasets/covid-19/issues/97) in [datasets/covid-19](https://github.com//datasets/covid-19)
+4. 🗣 Commented on [#1486](https://github.com//openspending/openspending/issues/1486) in [openspending/openspending](https://github.com//openspending/openspending)
+5. 🗣 Commented on [#91](https://github.com//datasets/covid-19/issues/91) in [datasets/covid-19](https://github.com//datasets/covid-19)
 <!--END_SECTION:activity-->
 
 
