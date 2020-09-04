@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#100](https://github.com//datasets/covid-19/pull/100) in [datasets/covid-19](https://github.com//datasets/covid-19)
-2. 🗣 Commented on [#100](https://github.com//datasets/covid-19/issues/100) in [datasets/covid-19](https://github.com//datasets/covid-19)
-3. 🗣 Commented on [#100](https://github.com//datasets/covid-19/issues/100) in [datasets/covid-19](https://github.com//datasets/covid-19)
-4. 💪 Opened PR [#1](https://github.com//TrevorWinstral/COVID_simplified/pull/1) in [TrevorWinstral/COVID_simplified](https://github.com//TrevorWinstral/COVID_simplified)
-5. 🗣 Commented on [#99](https://github.com//datasets/covid-19/issues/99) in [datasets/covid-19](https://github.com//datasets/covid-19)
+1. ❗️ Closed issue [#1484](https://github.com//openspending/openspending/issues/1484) in [openspending/openspending](https://github.com//openspending/openspending)
+2. 🗣 Commented on [#1484](https://github.com//openspending/openspending/issues/1484) in [openspending/openspending](https://github.com//openspending/openspending)
+3. ❗️ Closed issue [#1486](https://github.com//openspending/openspending/issues/1486) in [openspending/openspending](https://github.com//openspending/openspending)
+4. 🗣 Commented on [#1486](https://github.com//openspending/openspending/issues/1486) in [openspending/openspending](https://github.com//openspending/openspending)
+5. ❌ Closed PR [#100](https://github.com//datasets/covid-19/pull/100) in [datasets/covid-19](https://github.com//datasets/covid-19)
 <!--END_SECTION:activity-->
 
 
