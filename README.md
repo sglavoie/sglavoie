@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#91](https://github.com//datasets/covid-19/issues/91) in [datasets/covid-19](https://github.com//datasets/covid-19)
-2. 🗣 Commented on [#91](https://github.com//datasets/covid-19/issues/91) in [datasets/covid-19](https://github.com//datasets/covid-19)
-3. 🗣 Commented on [#162](https://github.com//world-class/REPL/issues/162) in [world-class/REPL](https://github.com//world-class/REPL)
-4. 🎉 Merged PR [#161](https://github.com//world-class/REPL/pull/161) in [world-class/REPL](https://github.com//world-class/REPL)
-5. 🗣 Commented on [#149](https://github.com//world-class/REPL/issues/149) in [world-class/REPL](https://github.com//world-class/REPL)
+1. 🗣 Commented on [#532](https://github.com//frictionlessdata/project/issues/532) in [frictionlessdata/project](https://github.com//frictionlessdata/project)
+2. ❗️ Closed issue [#91](https://github.com//datasets/covid-19/issues/91) in [datasets/covid-19](https://github.com//datasets/covid-19)
+3. 🗣 Commented on [#91](https://github.com//datasets/covid-19/issues/91) in [datasets/covid-19](https://github.com//datasets/covid-19)
+4. 🗣 Commented on [#162](https://github.com//world-class/REPL/issues/162) in [world-class/REPL](https://github.com//world-class/REPL)
+5. 🎉 Merged PR [#161](https://github.com//world-class/REPL/pull/161) in [world-class/REPL](https://github.com//world-class/REPL)
 <!--END_SECTION:activity-->
 
 
