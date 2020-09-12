@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#167](https://github.com//world-class/REPL/pull/167) in [world-class/REPL](https://github.com//world-class/REPL)
-2. 🗣 Commented on [#128](https://github.com//world-class/REPL/issues/128) in [world-class/REPL](https://github.com//world-class/REPL)
-3. 🎉 Merged PR [#126](https://github.com//frictionlessdata/website/pull/126) in [frictionlessdata/website](https://github.com//frictionlessdata/website)
-4. 🎉 Merged PR [#123](https://github.com//frictionlessdata/website/pull/123) in [frictionlessdata/website](https://github.com//frictionlessdata/website)
-5. 🎉 Merged PR [#122](https://github.com//frictionlessdata/website/pull/122) in [frictionlessdata/website](https://github.com//frictionlessdata/website)
+1. 🗣 Commented on [#128](https://github.com//world-class/REPL/issues/128) in [world-class/REPL](https://github.com//world-class/REPL)
+2. 🎉 Merged PR [#167](https://github.com//world-class/REPL/pull/167) in [world-class/REPL](https://github.com//world-class/REPL)
+3. 🗣 Commented on [#128](https://github.com//world-class/REPL/issues/128) in [world-class/REPL](https://github.com//world-class/REPL)
+4. 🎉 Merged PR [#126](https://github.com//frictionlessdata/website/pull/126) in [frictionlessdata/website](https://github.com//frictionlessdata/website)
+5. 🎉 Merged PR [#123](https://github.com//frictionlessdata/website/pull/123) in [frictionlessdata/website](https://github.com//frictionlessdata/website)
 <!--END_SECTION:activity-->
 
 
