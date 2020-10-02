@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#170](https://github.com/world-class/REPL/pull/170) in [world-class/REPL](https://github.com/world-class/REPL)
-2. 🗣 Commented on [#169](https://github.com/world-class/REPL/issues/169) in [world-class/REPL](https://github.com/world-class/REPL)
-3. 🎉 Merged PR [#169](https://github.com/world-class/REPL/pull/169) in [world-class/REPL](https://github.com/world-class/REPL)
-4. 🗣 Commented on [#169](https://github.com/world-class/REPL/issues/169) in [world-class/REPL](https://github.com/world-class/REPL)
-5. ❗️ Opened issue [#103](https://github.com/datasets/covid-19/issues/103) in [datasets/covid-19](https://github.com/datasets/covid-19)
+1. 🗣 Commented on [#1](https://github.com/sglavoie/grades_calculator/issues/1) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
+2. 🎉 Merged PR [#170](https://github.com/world-class/REPL/pull/170) in [world-class/REPL](https://github.com/world-class/REPL)
+3. 🗣 Commented on [#169](https://github.com/world-class/REPL/issues/169) in [world-class/REPL](https://github.com/world-class/REPL)
+4. 🎉 Merged PR [#169](https://github.com/world-class/REPL/pull/169) in [world-class/REPL](https://github.com/world-class/REPL)
+5. 🗣 Commented on [#169](https://github.com/world-class/REPL/issues/169) in [world-class/REPL](https://github.com/world-class/REPL)
 <!--END_SECTION:activity-->
 
 
