@@ -25,9 +25,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/sglavoie/grades_calculator/issues/1) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
 2. 🗣 Commented on [#1](https://github.com/sglavoie/grades_calculator/issues/1) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
-3. 🎉 Merged PR [#170](https://github.com/world-class/REPL/pull/170) in [world-class/REPL](https://github.com/world-class/REPL)
-4. 🗣 Commented on [#169](https://github.com/world-class/REPL/issues/169) in [world-class/REPL](https://github.com/world-class/REPL)
-5. 🎉 Merged PR [#169](https://github.com/world-class/REPL/pull/169) in [world-class/REPL](https://github.com/world-class/REPL)
+3. 🗣 Commented on [#1](https://github.com/sglavoie/grades_calculator/issues/1) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
+4. 🎉 Merged PR [#170](https://github.com/world-class/REPL/pull/170) in [world-class/REPL](https://github.com/world-class/REPL)
+5. 🗣 Commented on [#169](https://github.com/world-class/REPL/issues/169) in [world-class/REPL](https://github.com/world-class/REPL)
 <!--END_SECTION:activity-->
 
 
