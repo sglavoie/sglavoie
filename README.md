@@ -23,8 +23,8 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/sglavoie/grades_calculator/issues/1) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
-2. 🗣 Commented on [#1](https://github.com/sglavoie/grades_calculator/issues/1) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
+1. ❗️ Opened issue [#1488](https://github.com/openspending/openspending/issues/1488) in [openspending/openspending](https://github.com/openspending/openspending)
+2. ❗️ Closed issue [#1](https://github.com/sglavoie/grades_calculator/issues/1) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
 3. 🗣 Commented on [#1](https://github.com/sglavoie/grades_calculator/issues/1) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
 4. 🗣 Commented on [#1](https://github.com/sglavoie/grades_calculator/issues/1) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
 5. 🗣 Commented on [#1](https://github.com/sglavoie/grades_calculator/issues/1) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
