@@ -23,8 +23,8 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1488](https://github.com/openspending/openspending/issues/1488) in [openspending/openspending](https://github.com/openspending/openspending)
-2. ❗️ Closed issue [#171](https://github.com/world-class/REPL/issues/171) in [world-class/REPL](https://github.com/world-class/REPL)
+1. 🎉 Merged PR [#138](https://github.com/frictionlessdata/website/pull/138) in [frictionlessdata/website](https://github.com/frictionlessdata/website)
+2. 🗣 Commented on [#1488](https://github.com/openspending/openspending/issues/1488) in [openspending/openspending](https://github.com/openspending/openspending)
 3. 🗣 Commented on [#171](https://github.com/world-class/REPL/issues/171) in [world-class/REPL](https://github.com/world-class/REPL)
 4. ❗️ Opened issue [#1488](https://github.com/openspending/openspending/issues/1488) in [openspending/openspending](https://github.com/openspending/openspending)
 5. ❗️ Closed issue [#1](https://github.com/sglavoie/grades_calculator/issues/1) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
