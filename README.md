@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#536](https://github.com/frictionlessdata/project/issues/536) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
-2. ❗️ Opened issue [#536](https://github.com/frictionlessdata/project/issues/536) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
-3. 🎉 Merged PR [#138](https://github.com/frictionlessdata/website/pull/138) in [frictionlessdata/website](https://github.com/frictionlessdata/website)
-4. 🗣 Commented on [#1488](https://github.com/openspending/openspending/issues/1488) in [openspending/openspending](https://github.com/openspending/openspending)
-5. ❗️ Closed issue [#1](https://github.com/sglavoie/grades_calculator/issues/1) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
+1. ❌ Closed PR [#104](https://github.com/datasets/covid-19/pull/104) in [datasets/covid-19](https://github.com/datasets/covid-19)
+2. 🗣 Commented on [#104](https://github.com/datasets/covid-19/issues/104) in [datasets/covid-19](https://github.com/datasets/covid-19)
+3. 🗣 Commented on [#536](https://github.com/frictionlessdata/project/issues/536) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
+4. ❗️ Opened issue [#536](https://github.com/frictionlessdata/project/issues/536) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
+5. 🎉 Merged PR [#138](https://github.com/frictionlessdata/website/pull/138) in [frictionlessdata/website](https://github.com/frictionlessdata/website)
 <!--END_SECTION:activity-->
 
 
