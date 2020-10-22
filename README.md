@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/datopian/playbook/pull/7) in [datopian/playbook](https://github.com/datopian/playbook)
-2. 💪 Opened PR [#7](https://github.com/datopian/playbook/pull/7) in [datopian/playbook](https://github.com/datopian/playbook)
-3. 🗣 Commented on [#1](https://github.com/world-class/notes/issues/1) in [world-class/notes](https://github.com/world-class/notes)
+1. 🗣 Commented on [#105](https://github.com/datasets/covid-19/issues/105) in [datasets/covid-19](https://github.com/datasets/covid-19)
+2. 🎉 Merged PR [#7](https://github.com/datopian/playbook/pull/7) in [datopian/playbook](https://github.com/datopian/playbook)
+3. 💪 Opened PR [#7](https://github.com/datopian/playbook/pull/7) in [datopian/playbook](https://github.com/datopian/playbook)
 4. 🗣 Commented on [#1](https://github.com/world-class/notes/issues/1) in [world-class/notes](https://github.com/world-class/notes)
-5. ❌ Closed PR [#104](https://github.com/datasets/covid-19/pull/104) in [datasets/covid-19](https://github.com/datasets/covid-19)
+5. 🗣 Commented on [#1](https://github.com/world-class/notes/issues/1) in [world-class/notes](https://github.com/world-class/notes)
 <!--END_SECTION:activity-->
 
 
