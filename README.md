@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#536](https://github.com/frictionlessdata/project/issues/536) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
-2. 🗣 Commented on [#105](https://github.com/datasets/covid-19/issues/105) in [datasets/covid-19](https://github.com/datasets/covid-19)
-3. 🎉 Merged PR [#7](https://github.com/datopian/playbook/pull/7) in [datopian/playbook](https://github.com/datopian/playbook)
-4. 💪 Opened PR [#7](https://github.com/datopian/playbook/pull/7) in [datopian/playbook](https://github.com/datopian/playbook)
-5. 🗣 Commented on [#1](https://github.com/world-class/notes/issues/1) in [world-class/notes](https://github.com/world-class/notes)
+1. ❗️ Opened issue [#1489](https://github.com/openspending/openspending/issues/1489) in [openspending/openspending](https://github.com/openspending/openspending)
+2. 🗣 Commented on [#536](https://github.com/frictionlessdata/project/issues/536) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
+3. 🗣 Commented on [#105](https://github.com/datasets/covid-19/issues/105) in [datasets/covid-19](https://github.com/datasets/covid-19)
+4. 🎉 Merged PR [#7](https://github.com/datopian/playbook/pull/7) in [datopian/playbook](https://github.com/datopian/playbook)
+5. 💪 Opened PR [#7](https://github.com/datopian/playbook/pull/7) in [datopian/playbook](https://github.com/datopian/playbook)
 <!--END_SECTION:activity-->
 
 
