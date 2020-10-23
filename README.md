@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1489](https://github.com/openspending/openspending/issues/1489) in [openspending/openspending](https://github.com/openspending/openspending)
-2. 🗣 Commented on [#536](https://github.com/frictionlessdata/project/issues/536) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
-3. 🗣 Commented on [#105](https://github.com/datasets/covid-19/issues/105) in [datasets/covid-19](https://github.com/datasets/covid-19)
-4. 🎉 Merged PR [#7](https://github.com/datopian/playbook/pull/7) in [datopian/playbook](https://github.com/datopian/playbook)
-5. 💪 Opened PR [#7](https://github.com/datopian/playbook/pull/7) in [datopian/playbook](https://github.com/datopian/playbook)
+1. ❗️ Closed issue [#105](https://github.com/datasets/covid-19/issues/105) in [datasets/covid-19](https://github.com/datasets/covid-19)
+2. 🗣 Commented on [#105](https://github.com/datasets/covid-19/issues/105) in [datasets/covid-19](https://github.com/datasets/covid-19)
+3. ❗️ Closed issue [#103](https://github.com/datasets/covid-19/issues/103) in [datasets/covid-19](https://github.com/datasets/covid-19)
+4. 🗣 Commented on [#103](https://github.com/datasets/covid-19/issues/103) in [datasets/covid-19](https://github.com/datasets/covid-19)
+5. ❗️ Opened issue [#1489](https://github.com/openspending/openspending/issues/1489) in [openspending/openspending](https://github.com/openspending/openspending)
 <!--END_SECTION:activity-->
 
 
