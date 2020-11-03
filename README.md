@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#493](https://github.com/frictionlessdata/project/issues/493) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
-2. 🗣 Commented on [#493](https://github.com/frictionlessdata/project/issues/493) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
-3. ❗️ Closed issue [#484](https://github.com/frictionlessdata/project/issues/484) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
-4. 🗣 Commented on [#484](https://github.com/frictionlessdata/project/issues/484) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
-5. ❗️ Closed issue [#514](https://github.com/frictionlessdata/project/issues/514) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
+1. 🗣 Commented on [#524](https://github.com/frictionlessdata/project/issues/524) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
+2. ❗️ Closed issue [#493](https://github.com/frictionlessdata/project/issues/493) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
+3. 🗣 Commented on [#493](https://github.com/frictionlessdata/project/issues/493) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
+4. ❗️ Closed issue [#484](https://github.com/frictionlessdata/project/issues/484) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
+5. 🗣 Commented on [#484](https://github.com/frictionlessdata/project/issues/484) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
 <!--END_SECTION:activity-->
 
 
