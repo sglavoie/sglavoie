@@ -23,10 +23,10 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#506](https://github.com/frictionlessdata/project/issues/506) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
-2. 💪 Opened PR [#575](https://github.com/frictionlessdata/project/pull/575) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
-3. ❗️ Closed issue [#1489](https://github.com/openspending/openspending/issues/1489) in [openspending/openspending](https://github.com/openspending/openspending)
-4. 🗣 Commented on [#1489](https://github.com/openspending/openspending/issues/1489) in [openspending/openspending](https://github.com/openspending/openspending)
+1. 🎉 Merged PR [#176](https://github.com/world-class/REPL/pull/176) in [world-class/REPL](https://github.com/world-class/REPL)
+2. 🗣 Commented on [#506](https://github.com/frictionlessdata/project/issues/506) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
+3. 💪 Opened PR [#575](https://github.com/frictionlessdata/project/pull/575) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
+4. ❗️ Closed issue [#1489](https://github.com/openspending/openspending/issues/1489) in [openspending/openspending](https://github.com/openspending/openspending)
 5. 🗣 Commented on [#1489](https://github.com/openspending/openspending/issues/1489) in [openspending/openspending](https://github.com/openspending/openspending)
 <!--END_SECTION:activity-->
 
