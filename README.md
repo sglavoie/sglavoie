@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#577](https://github.com/frictionlessdata/project/issues/577) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
-2. 🗣 Commented on [#69](https://github.com/frictionlessdata/forum/issues/69) in [frictionlessdata/forum](https://github.com/frictionlessdata/forum)
-3. 🎉 Merged PR [#176](https://github.com/world-class/REPL/pull/176) in [world-class/REPL](https://github.com/world-class/REPL)
-4. 🗣 Commented on [#506](https://github.com/frictionlessdata/project/issues/506) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
-5. 💪 Opened PR [#575](https://github.com/frictionlessdata/project/pull/575) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
+1. 🗣 Commented on [#577](https://github.com/frictionlessdata/project/issues/577) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
+2. ❗️ Opened issue [#577](https://github.com/frictionlessdata/project/issues/577) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
+3. 🗣 Commented on [#69](https://github.com/frictionlessdata/forum/issues/69) in [frictionlessdata/forum](https://github.com/frictionlessdata/forum)
+4. 🎉 Merged PR [#176](https://github.com/world-class/REPL/pull/176) in [world-class/REPL](https://github.com/world-class/REPL)
+5. 🗣 Commented on [#506](https://github.com/frictionlessdata/project/issues/506) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
 <!--END_SECTION:activity-->
 
 
