@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/sglavoie/grades_calculator/issues/3) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
-2. ❗️ Closed issue [#2](https://github.com/sglavoie/grades_calculator/issues/2) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
-3. 🗣 Commented on [#2](https://github.com/sglavoie/grades_calculator/issues/2) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
-4. ❗️ Opened issue [#2](https://github.com/sglavoie/grades_calculator/issues/2) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
-5. ❗️ Closed issue [#539](https://github.com/frictionlessdata/project/issues/539) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
+1. 💪 Opened PR [#136](https://github.com/datopian/datapipes/pull/136) in [datopian/datapipes](https://github.com/datopian/datapipes)
+2. ❗️ Opened issue [#3](https://github.com/sglavoie/grades_calculator/issues/3) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
+3. ❗️ Closed issue [#2](https://github.com/sglavoie/grades_calculator/issues/2) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
+4. 🗣 Commented on [#2](https://github.com/sglavoie/grades_calculator/issues/2) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
+5. ❗️ Opened issue [#2](https://github.com/sglavoie/grades_calculator/issues/2) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
 <!--END_SECTION:activity-->
 
 
