@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#178](https://github.com/world-class/REPL/pull/178) in [world-class/REPL](https://github.com/world-class/REPL)
-2. 🗣 Commented on [#178](https://github.com/world-class/REPL/issues/178) in [world-class/REPL](https://github.com/world-class/REPL)
-3. ❌ Closed PR [#177](https://github.com/world-class/REPL/pull/177) in [world-class/REPL](https://github.com/world-class/REPL)
-4. 🗣 Commented on [#177](https://github.com/world-class/REPL/issues/177) in [world-class/REPL](https://github.com/world-class/REPL)
-5. 🗣 Commented on [#8](https://github.com/datopian/gift-portal/issues/8) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+1. ❗️ Opened issue [#28](https://github.com/datopian/gift-portal/issues/28) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+2. ❗️ Closed issue [#8](https://github.com/datopian/gift-portal/issues/8) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+3. 🗣 Commented on [#8](https://github.com/datopian/gift-portal/issues/8) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+4. ❗️ Closed issue [#18](https://github.com/datopian/gift-portal/issues/18) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+5. 🗣 Commented on [#18](https://github.com/datopian/gift-portal/issues/18) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
 <!--END_SECTION:activity-->
 
 
