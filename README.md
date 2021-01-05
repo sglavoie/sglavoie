@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/datopian/gift-publisher/pull/20) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-2. ❗️ Closed issue [#12](https://github.com/datopian/gift-publisher/issues/12) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-3. 🎉 Merged PR [#179](https://github.com/world-class/REPL/pull/179) in [world-class/REPL](https://github.com/world-class/REPL)
-4. 🗣 Commented on [#17](https://github.com/datopian/gift-publisher/issues/17) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-5. ❗️ Opened issue [#28](https://github.com/datopian/gift-portal/issues/28) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+1. ❗️ Closed issue [#110](https://github.com/datasets/covid-19/issues/110) in [datasets/covid-19](https://github.com/datasets/covid-19)
+2. 🗣 Commented on [#110](https://github.com/datasets/covid-19/issues/110) in [datasets/covid-19](https://github.com/datasets/covid-19)
+3. 🎉 Merged PR [#20](https://github.com/datopian/gift-publisher/pull/20) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+4. ❗️ Closed issue [#12](https://github.com/datopian/gift-publisher/issues/12) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+5. 🎉 Merged PR [#179](https://github.com/world-class/REPL/pull/179) in [world-class/REPL](https://github.com/world-class/REPL)
 <!--END_SECTION:activity-->
 
 
