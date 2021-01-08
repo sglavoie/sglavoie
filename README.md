@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#21](https://github.com/datopian/gift-publisher/issues/21) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-2. 🗣 Commented on [#38](https://github.com/datopian/gift-portal/issues/38) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-3. 🗣 Commented on [#111](https://github.com/datasets/covid-19/issues/111) in [datasets/covid-19](https://github.com/datasets/covid-19)
-4. 🗣 Commented on [#37](https://github.com/datopian/gift-portal/issues/37) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-5. ❗️ Closed issue [#110](https://github.com/datasets/covid-19/issues/110) in [datasets/covid-19](https://github.com/datasets/covid-19)
+1. ❗️ Opened issue [#22](https://github.com/datopian/gift-publisher/issues/22) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+2. ❗️ Opened issue [#21](https://github.com/datopian/gift-publisher/issues/21) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+3. 🗣 Commented on [#38](https://github.com/datopian/gift-portal/issues/38) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+4. 🗣 Commented on [#111](https://github.com/datasets/covid-19/issues/111) in [datasets/covid-19](https://github.com/datasets/covid-19)
+5. 🗣 Commented on [#37](https://github.com/datopian/gift-portal/issues/37) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
 <!--END_SECTION:activity-->
 
 
