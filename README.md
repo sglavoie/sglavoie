@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#180](https://github.com/world-class/REPL/pull/180) in [world-class/REPL](https://github.com/world-class/REPL)
-2. ❗️ Closed issue [#25](https://github.com/datopian/gift-publisher/issues/25) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-3. 🗣 Commented on [#25](https://github.com/datopian/gift-publisher/issues/25) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-4. ❗️ Opened issue [#25](https://github.com/datopian/gift-publisher/issues/25) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-5. 🗣 Commented on [#21](https://github.com/datopian/gift-publisher/issues/21) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+1. ❗️ Closed issue [#577](https://github.com/frictionlessdata/project/issues/577) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
+2. 🗣 Commented on [#577](https://github.com/frictionlessdata/project/issues/577) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
+3. 🎉 Merged PR [#180](https://github.com/world-class/REPL/pull/180) in [world-class/REPL](https://github.com/world-class/REPL)
+4. ❗️ Closed issue [#25](https://github.com/datopian/gift-publisher/issues/25) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+5. 🗣 Commented on [#25](https://github.com/datopian/gift-publisher/issues/25) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
 <!--END_SECTION:activity-->
 
 
