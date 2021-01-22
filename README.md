@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/datopian/gift-portal/issues/49) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-2. ❗️ Opened issue [#49](https://github.com/datopian/gift-portal/issues/49) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-3. ❗️ Closed issue [#577](https://github.com/frictionlessdata/project/issues/577) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
-4. 🗣 Commented on [#577](https://github.com/frictionlessdata/project/issues/577) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
-5. 🎉 Merged PR [#180](https://github.com/world-class/REPL/pull/180) in [world-class/REPL](https://github.com/world-class/REPL)
+1. ❗️ Opened issue [#70](https://github.com/datopian/gift-portal/issues/70) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+2. 🗣 Commented on [#49](https://github.com/datopian/gift-portal/issues/49) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+3. ❗️ Opened issue [#49](https://github.com/datopian/gift-portal/issues/49) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+4. ❗️ Closed issue [#577](https://github.com/frictionlessdata/project/issues/577) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
+5. 🗣 Commented on [#577](https://github.com/frictionlessdata/project/issues/577) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
 <!--END_SECTION:activity-->
 
 
