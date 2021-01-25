@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#73](https://github.com/datopian/gift-portal/issues/73) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-2. 🗣 Commented on [#61](https://github.com/datopian/gift-portal/issues/61) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-3. ❗️ Closed issue [#70](https://github.com/datopian/gift-portal/issues/70) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-4. 🗣 Commented on [#70](https://github.com/datopian/gift-portal/issues/70) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-5. 🗣 Commented on [#577](https://github.com/frictionlessdata/project/issues/577) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
+1. ❗️ Opened issue [#74](https://github.com/datopian/gift-portal/issues/74) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+2. ❗️ Opened issue [#73](https://github.com/datopian/gift-portal/issues/73) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+3. 🗣 Commented on [#61](https://github.com/datopian/gift-portal/issues/61) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+4. ❗️ Closed issue [#70](https://github.com/datopian/gift-portal/issues/70) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+5. 🗣 Commented on [#70](https://github.com/datopian/gift-portal/issues/70) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
 <!--END_SECTION:activity-->
 
 
