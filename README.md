@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#79](https://github.com/datopian/gift-portal/issues/79) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-2. 🎉 Merged PR [#184](https://github.com/datopian/deploy/pull/184) in [datopian/deploy](https://github.com/datopian/deploy)
-3. ❗️ Opened issue [#74](https://github.com/datopian/gift-portal/issues/74) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-4. ❗️ Opened issue [#73](https://github.com/datopian/gift-portal/issues/73) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-5. 🗣 Commented on [#61](https://github.com/datopian/gift-portal/issues/61) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+1. 🗣 Commented on [#115](https://github.com/datasets/covid-19/issues/115) in [datasets/covid-19](https://github.com/datasets/covid-19)
+2. ❗️ Opened issue [#79](https://github.com/datopian/gift-portal/issues/79) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+3. 🎉 Merged PR [#184](https://github.com/datopian/deploy/pull/184) in [datopian/deploy](https://github.com/datopian/deploy)
+4. ❗️ Opened issue [#74](https://github.com/datopian/gift-portal/issues/74) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+5. ❗️ Opened issue [#73](https://github.com/datopian/gift-portal/issues/73) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
 <!--END_SECTION:activity-->
 
 
