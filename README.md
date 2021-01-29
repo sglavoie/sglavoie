@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#115](https://github.com/datasets/covid-19/issues/115) in [datasets/covid-19](https://github.com/datasets/covid-19)
-2. 🗣 Commented on [#115](https://github.com/datasets/covid-19/issues/115) in [datasets/covid-19](https://github.com/datasets/covid-19)
-3. ❗️ Opened issue [#79](https://github.com/datopian/gift-portal/issues/79) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-4. 🎉 Merged PR [#184](https://github.com/datopian/deploy/pull/184) in [datopian/deploy](https://github.com/datopian/deploy)
-5. ❗️ Opened issue [#74](https://github.com/datopian/gift-portal/issues/74) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+1. 🎉 Merged PR [#5](https://github.com/datasets/natural-gas/pull/5) in [datasets/natural-gas](https://github.com/datasets/natural-gas)
+2. 🗣 Commented on [#5](https://github.com/datasets/natural-gas/issues/5) in [datasets/natural-gas](https://github.com/datasets/natural-gas)
+3. 🗣 Commented on [#115](https://github.com/datasets/covid-19/issues/115) in [datasets/covid-19](https://github.com/datasets/covid-19)
+4. 🗣 Commented on [#115](https://github.com/datasets/covid-19/issues/115) in [datasets/covid-19](https://github.com/datasets/covid-19)
+5. ❗️ Opened issue [#79](https://github.com/datopian/gift-portal/issues/79) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
 <!--END_SECTION:activity-->
 
 
