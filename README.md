@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/sglavoie/grades_calculator/issues/5) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
-2. ❗️ Closed issue [#4](https://github.com/sglavoie/grades_calculator/issues/4) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
-3. ❗️ Opened issue [#5](https://github.com/sglavoie/grades_calculator/issues/5) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
-4. ❗️ Opened issue [#4](https://github.com/sglavoie/grades_calculator/issues/4) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
-5. 🎉 Merged PR [#5](https://github.com/datasets/natural-gas/pull/5) in [datasets/natural-gas](https://github.com/datasets/natural-gas)
+1. ❗️ Opened issue [#36](https://github.com/datopian/gift-publisher/issues/36) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+2. ❗️ Opened issue [#91](https://github.com/datopian/gift-portal/issues/91) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+3. ❗️ Closed issue [#5](https://github.com/sglavoie/grades_calculator/issues/5) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
+4. ❗️ Closed issue [#4](https://github.com/sglavoie/grades_calculator/issues/4) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
+5. ❗️ Opened issue [#5](https://github.com/sglavoie/grades_calculator/issues/5) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
 <!--END_SECTION:activity-->
 
 
