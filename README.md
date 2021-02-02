@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#36](https://github.com/datopian/gift-publisher/issues/36) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-2. ❗️ Opened issue [#91](https://github.com/datopian/gift-portal/issues/91) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-3. ❗️ Closed issue [#5](https://github.com/sglavoie/grades_calculator/issues/5) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
-4. ❗️ Closed issue [#4](https://github.com/sglavoie/grades_calculator/issues/4) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
-5. ❗️ Opened issue [#5](https://github.com/sglavoie/grades_calculator/issues/5) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
+1. ❗️ Closed issue [#79](https://github.com/datopian/gift-portal/issues/79) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+2. 🗣 Commented on [#79](https://github.com/datopian/gift-portal/issues/79) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+3. ❗️ Opened issue [#36](https://github.com/datopian/gift-publisher/issues/36) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+4. ❗️ Opened issue [#91](https://github.com/datopian/gift-portal/issues/91) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+5. ❗️ Closed issue [#5](https://github.com/sglavoie/grades_calculator/issues/5) in [sglavoie/grades_calculator](https://github.com/sglavoie/grades_calculator)
 <!--END_SECTION:activity-->
 
 
