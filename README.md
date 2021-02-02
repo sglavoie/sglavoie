@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com/datopian/gift-portal/issues/93) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-2. ❗️ Closed issue [#75](https://github.com/datopian/gift-portal/issues/75) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-3. 🗣 Commented on [#75](https://github.com/datopian/gift-portal/issues/75) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-4. ❗️ Closed issue [#79](https://github.com/datopian/gift-portal/issues/79) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-5. 🗣 Commented on [#79](https://github.com/datopian/gift-portal/issues/79) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+1. ❗️ Opened issue [#283](https://github.com/datopian/datahub-qa/issues/283) in [datopian/datahub-qa](https://github.com/datopian/datahub-qa)
+2. 🗣 Commented on [#93](https://github.com/datopian/gift-portal/issues/93) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+3. ❗️ Closed issue [#75](https://github.com/datopian/gift-portal/issues/75) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+4. 🗣 Commented on [#75](https://github.com/datopian/gift-portal/issues/75) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+5. ❗️ Closed issue [#79](https://github.com/datopian/gift-portal/issues/79) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
 <!--END_SECTION:activity-->
 
 
