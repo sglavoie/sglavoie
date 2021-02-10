@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#43](https://github.com/datopian/gift-publisher/issues/43) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-2. 🗣 Commented on [#43](https://github.com/datopian/gift-publisher/issues/43) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-3. 🗣 Commented on [#22](https://github.com/datopian/gift-publisher/issues/22) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-4. 🗣 Commented on [#1](https://github.com/gift-data/presupuesto-de-uruguay/issues/1) in [gift-data/presupuesto-de-uruguay](https://github.com/gift-data/presupuesto-de-uruguay)
-5. ❗️ Closed issue [#74](https://github.com/datopian/gift-portal/issues/74) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+1. ❗️ Opened issue [#118](https://github.com/datopian/gift-portal/issues/118) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+2. ❗️ Closed issue [#43](https://github.com/datopian/gift-publisher/issues/43) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+3. 🗣 Commented on [#43](https://github.com/datopian/gift-publisher/issues/43) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+4. 🗣 Commented on [#22](https://github.com/datopian/gift-publisher/issues/22) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+5. 🗣 Commented on [#1](https://github.com/gift-data/presupuesto-de-uruguay/issues/1) in [gift-data/presupuesto-de-uruguay](https://github.com/gift-data/presupuesto-de-uruguay)
 <!--END_SECTION:activity-->
 
 
