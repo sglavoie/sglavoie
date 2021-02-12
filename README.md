@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#118](https://github.com/datopian/gift-portal/issues/118) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-2. 🗣 Commented on [#118](https://github.com/datopian/gift-portal/issues/118) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-3. 🎉 Merged PR [#12](https://github.com/datopian/playbook/pull/12) in [datopian/playbook](https://github.com/datopian/playbook)
-4. 🎉 Merged PR [#9](https://github.com/datopian/playbook/pull/9) in [datopian/playbook](https://github.com/datopian/playbook)
-5. 🎉 Merged PR [#11](https://github.com/datopian/playbook/pull/11) in [datopian/playbook](https://github.com/datopian/playbook)
+1. 🗣 Commented on [#107](https://github.com/datopian/gift-portal/issues/107) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+2. ❗️ Closed issue [#91](https://github.com/datopian/gift-portal/issues/91) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+3. 🗣 Commented on [#91](https://github.com/datopian/gift-portal/issues/91) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+4. ❗️ Closed issue [#118](https://github.com/datopian/gift-portal/issues/118) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+5. 🗣 Commented on [#118](https://github.com/datopian/gift-portal/issues/118) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
 <!--END_SECTION:activity-->
 
 
