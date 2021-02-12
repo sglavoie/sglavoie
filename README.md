@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/datopian/playbook/pull/12) in [datopian/playbook](https://github.com/datopian/playbook)
-2. 🎉 Merged PR [#9](https://github.com/datopian/playbook/pull/9) in [datopian/playbook](https://github.com/datopian/playbook)
-3. 🎉 Merged PR [#11](https://github.com/datopian/playbook/pull/11) in [datopian/playbook](https://github.com/datopian/playbook)
-4. 🎉 Merged PR [#1](https://github.com/datopian/playbook/pull/1) in [datopian/playbook](https://github.com/datopian/playbook)
-5. 🎉 Merged PR [#2](https://github.com/datopian/playbook/pull/2) in [datopian/playbook](https://github.com/datopian/playbook)
+1. ❗️ Closed issue [#118](https://github.com/datopian/gift-portal/issues/118) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+2. 🗣 Commented on [#118](https://github.com/datopian/gift-portal/issues/118) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+3. 🎉 Merged PR [#12](https://github.com/datopian/playbook/pull/12) in [datopian/playbook](https://github.com/datopian/playbook)
+4. 🎉 Merged PR [#9](https://github.com/datopian/playbook/pull/9) in [datopian/playbook](https://github.com/datopian/playbook)
+5. 🎉 Merged PR [#11](https://github.com/datopian/playbook/pull/11) in [datopian/playbook](https://github.com/datopian/playbook)
 <!--END_SECTION:activity-->
 
 
