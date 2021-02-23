@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#152](https://github.com/datopian/gift-portal/issues/152) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-2. ❗️ Opened issue [#151](https://github.com/datopian/gift-portal/issues/151) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-3. 🗣 Commented on [#150](https://github.com/datopian/gift-portal/issues/150) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-4. ❗️ Opened issue [#150](https://github.com/datopian/gift-portal/issues/150) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-5. ❗️ Opened issue [#149](https://github.com/datopian/gift-portal/issues/149) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+1. ❗️ Opened issue [#17](https://github.com/datopian/metastore-lib-js/issues/17) in [datopian/metastore-lib-js](https://github.com/datopian/metastore-lib-js)
+2. ❗️ Opened issue [#152](https://github.com/datopian/gift-portal/issues/152) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+3. ❗️ Opened issue [#151](https://github.com/datopian/gift-portal/issues/151) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+4. 🗣 Commented on [#150](https://github.com/datopian/gift-portal/issues/150) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+5. ❗️ Opened issue [#150](https://github.com/datopian/gift-portal/issues/150) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
 <!--END_SECTION:activity-->
 
 
