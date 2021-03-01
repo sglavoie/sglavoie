@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/world-class/notes/pull/7) in [world-class/notes](https://github.com/world-class/notes)
-2. 🎉 Merged PR [#6](https://github.com/world-class/notes/pull/6) in [world-class/notes](https://github.com/world-class/notes)
-3. 💪 Opened PR [#63](https://github.com/datopian/gift-publisher/pull/63) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-4. ❗️ Opened issue [#17](https://github.com/datopian/metastore-lib-js/issues/17) in [datopian/metastore-lib-js](https://github.com/datopian/metastore-lib-js)
-5. ❗️ Opened issue [#152](https://github.com/datopian/gift-portal/issues/152) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+1. 🎉 Merged PR [#63](https://github.com/datopian/gift-publisher/pull/63) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+2. 🎉 Merged PR [#7](https://github.com/world-class/notes/pull/7) in [world-class/notes](https://github.com/world-class/notes)
+3. 🎉 Merged PR [#6](https://github.com/world-class/notes/pull/6) in [world-class/notes](https://github.com/world-class/notes)
+4. 💪 Opened PR [#63](https://github.com/datopian/gift-publisher/pull/63) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+5. ❗️ Opened issue [#17](https://github.com/datopian/metastore-lib-js/issues/17) in [datopian/metastore-lib-js](https://github.com/datopian/metastore-lib-js)
 <!--END_SECTION:activity-->
 
 
