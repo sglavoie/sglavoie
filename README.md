@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#64](https://github.com/datopian/gift-publisher/issues/64) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-2. 🎉 Merged PR [#63](https://github.com/datopian/gift-publisher/pull/63) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-3. 🎉 Merged PR [#7](https://github.com/world-class/notes/pull/7) in [world-class/notes](https://github.com/world-class/notes)
-4. 🎉 Merged PR [#6](https://github.com/world-class/notes/pull/6) in [world-class/notes](https://github.com/world-class/notes)
-5. 💪 Opened PR [#63](https://github.com/datopian/gift-publisher/pull/63) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+1. 🗣 Commented on [#64](https://github.com/datopian/gift-publisher/issues/64) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+2. ❗️ Opened issue [#64](https://github.com/datopian/gift-publisher/issues/64) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+3. 🎉 Merged PR [#63](https://github.com/datopian/gift-publisher/pull/63) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+4. 🎉 Merged PR [#7](https://github.com/world-class/notes/pull/7) in [world-class/notes](https://github.com/world-class/notes)
+5. 🎉 Merged PR [#6](https://github.com/world-class/notes/pull/6) in [world-class/notes](https://github.com/world-class/notes)
 <!--END_SECTION:activity-->
 
 
