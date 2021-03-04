@@ -23,11 +23,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#16](https://github.com/datopian/gift-portal/issues/16) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-2. 🗣 Commented on [#16](https://github.com/datopian/gift-portal/issues/16) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-3. 🗣 Commented on [#64](https://github.com/datopian/gift-publisher/issues/64) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-4. ❗️ Opened issue [#64](https://github.com/datopian/gift-publisher/issues/64) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-5. 🎉 Merged PR [#63](https://github.com/datopian/gift-publisher/pull/63) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+1. 🗣 Commented on [#581](https://github.com/frictionlessdata/project/issues/581) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
+2. ❗️ Closed issue [#581](https://github.com/frictionlessdata/project/issues/581) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
+3. ❗️ Closed issue [#617](https://github.com/frictionlessdata/project/issues/617) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
+4. ❗️ Closed issue [#615](https://github.com/frictionlessdata/project/issues/615) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
+5. ❗️ Closed issue [#613](https://github.com/frictionlessdata/project/issues/613) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
 <!--END_SECTION:activity-->
 
 
