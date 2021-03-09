@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   role="img"
+   viewBox="0 0 18.889999 24.449366"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="readthedocs.svg"
+   width="18.889999"
+   height="24.449366"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Read the Docs icon</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     id="namedview8"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="8.4082477"
+     inkscape:cy="9.9301714"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Read the Docs icon</title>
+  <path
+     d="M 5.176999,0.20050263 A 59.316,59.316 0 0 0 0.2,0.41850263 V 24.200502 a 62.933,62.933 0 0 1 3.618999,-0.687 c 0.17,-0.028 0.34,-0.053 0.509,-0.078 0.215,-0.033 0.43,-0.066 0.644,-0.096 l 0.205,-0.03 z m 1.18,0.003 V 23.160502 A 61.042,61.042 0 0 1 18.69,22.947502 V 1.6855026 A 60.859,60.859 0 0 0 6.356999,0.20350263 Z m 1.707,1.80999987 a 0.59,0.59 0 0 1 0.015,0 c 3.06,0.088 6.125,0.404 9.167001,0.9499999 a 0.59,0.59 0 0 1 0.476,0.686 0.59,0.59 0 0 1 -0.569,0.484 0.59,0.59 0 0 1 -0.116,-0.009 60.622,60.622 0 0 0 -8.992001,-0.931 0.59,0.59 0 0 1 -0.573,-0.607 0.59,0.59 0 0 1 0.592,-0.5719999 z m -4.212,0.028 a 0.59,0.59 0 0 1 0.578,0.5649999 0.59,0.59 0 0 1 -0.564,0.614 59.74,59.74 0 0 0 -2.354999,0.144 0.59,0.59 0 0 1 -0.04,0.002 0.59,0.59 0 0 1 -0.595,-0.542 0.59,0.59 0 0 1 0.54,-0.6349999 c 0.8,-0.065 1.6,-0.114 2.400999,-0.148 a 0.59,0.59 0 0 1 0.035,0 z m 4.202,2.834 a 0.59,0.59 0 0 1 0.015,0 61.6,61.6 0 0 1 9.167001,0.8 0.59,0.59 0 0 1 0.488,0.6769996 0.59,0.59 0 0 1 -0.602,0.494 0.59,0.59 0 0 1 -0.076,-0.006 60.376,60.376 0 0 0 -8.990001,-0.786 0.59,0.59 0 0 1 -0.584,-0.5959996 0.59,0.59 0 0 1 0.582,-0.583 z m -4.211,0.097 a 0.59,0.59 0 0 1 0.587,0.555 0.59,0.59 0 0 1 -0.554,0.6219996 C 3.09,6.1955021 2.304,6.2565021 1.52,6.3335021 a 0.59,0.59 0 0 1 -0.04,0.003 0.59,0.59 0 0 1 -0.603,-0.5329996 0.59,0.59 0 0 1 0.53,-0.644 c 0.8,-0.078 1.599,-0.14 2.399999,-0.187 a 0.59,0.59 0 0 1 0.036,0 z m 4.202,2.7629996 a 0.59,0.59 0 0 1 0.015,0 c 3.06,-0.013 6.125,0.204 9.167001,0.65 a 0.59,0.59 0 0 1 0.498,0.6700004 0.59,0.59 0 0 1 -0.593,0.504 0.59,0.59 0 0 1 -0.076,-0.006 60.142,60.142 0 0 0 -8.992001,-0.6380004 0.59,0.59 0 0 1 -0.592,-0.588 0.59,0.59 0 0 1 0.573,-0.592 z m 1.1529996,2.8460009 a 61.093,61.093 0 0 1 8.0200014,0.515 0.59,0.59 0 0 1 0.509,0.66 0.59,0.59 0 0 1 -0.586,0.514 0.59,0.59 0 0 1 -0.076,-0.005 59.982,59.982 0 0 0 -8.990001,-0.492 0.59,0.59 0 0 1 -0.603,-0.577 0.59,0.59 0 0 1 0.578,-0.603 c 0.3819996,-0.008 0.7649996,-0.012 1.1479996,-0.012 z m 1.1390004,2.832 a 60.92,60.92 0 0 1 6.871001,0.393999 0.59,0.59 0 0 1 0.52,0.652 0.59,0.59 0 0 1 -0.577,0.523 0.59,0.59 0 0 1 -0.076,-0.004 59.936,59.936 0 0 0 -8.991001,-0.344 0.59,0.59 0 0 1 -0.61,-0.568 0.59,0.59 0 0 1 0.567,-0.610999 c 0.7649996,-0.028 1.5299996,-0.042 2.296,-0.042 z"
+     id="path4"
+     style="fill:#646464;fill-opacity:1;stroke:#c8c8c8;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
+</svg>

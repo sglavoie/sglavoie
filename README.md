@@ -8,7 +8,8 @@
 - [Ignoring Sync of Local Files to Dropbox on Linux](https://www.sglavoie.com/posts/2019/11/30/ignoring-sync-of-local-files-to-dropbox-on-linux/)
 <!-- BLOG-POST-LIST:END -->
 
-[<img alt="rss feed" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/readthedocs.svg" /> Read more][website] &nbsp;&nbsp;&nbsp;&nbsp; [<img alt="rss feed" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" /> RSS feed][rss]
+
+[<img alt="rss feed" width="22px" src="./assets/readthedocs.svg" /> Read more][website] &nbsp;&nbsp;&nbsp;&nbsp; [<img alt="rss feed" width="22px" src="./assets/rss.svg" /> RSS feed][rss]
 
 ## 🔌 Let's connect
 
