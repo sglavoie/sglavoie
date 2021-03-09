@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   role="img"
+   viewBox="0 0 21.512333 25"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="stackoverflow.svg"
+   width="21.512333"
+   height="25"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Stack Overflow icon</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     id="namedview8"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="8"
+     inkscape:cx="40.05659"
+     inkscape:cy="0.20874701"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Stack Overflow icon</title>
+  <path
+     d="m 17.642,22.365 v -6.404 h 2.134 V 24.5 H 0.5 v -8.539 h 2.13 v 6.404 z M 4.767,20.231 H 15.506 V 18.094 H 4.767 Z m 0.259,-4.852 10.48,2.189 0.451,-2.07 -10.478,-2.187 z m 1.359,-5.056 9.705,4.53 0.903,-1.95 -9.706,-4.53 -0.902,1.936 z M 9.1,5.538 17.317,12.393 18.676,10.773 10.46,3.92 9.11,5.537 Z M 14.407,0.5 12.661,1.794 19.066,10.398 20.812,9.104 14.405,0.5 Z"
+     id="path4"
+     style="fill:#646464;fill-opacity:1;stroke:#c8c8c8;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
+</svg>

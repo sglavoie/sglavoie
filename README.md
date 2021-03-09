@@ -13,11 +13,11 @@
 
 ## 🔌 Let's connect
 
-[<img align="left" alt="sglavoie.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="sgdlavoie | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="sglavoie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sglavoie | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="sglavoie | HackRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="sglavoie.com" width="22px" src="./assets/globe.svg" />][website]
+[<img align="left" alt="sgdlavoie | Twitter" width="22px" src="./assets/twitter.svg" />][twitter]
+[<img align="left" alt="sglavoie | LinkedIn" width="22px" src="./assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="sglavoie | Stackoverflow" width="22px" src="./assets/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="sglavoie | HackRank" width="22px" src="./assets/hackerrank.svg" />][hackerrank]
 
 <br /><br />
 

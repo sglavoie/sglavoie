@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   role="img"
+   viewBox="0 0 25 25"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="linkedin.svg"
+   width="25"
+   height="25"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>LinkedIn icon</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     id="namedview8"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="-6.9237288"
+     inkscape:cy="12.5"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">LinkedIn icon</title>
+  <path
+     d="m 20.947,20.952 h -3.554 v -5.569 c 0,-1.328 -0.027,-3.037 -1.852,-3.037 -1.853,0 -2.136,1.445 -2.136,2.939 v 5.667 H 9.851 V 9.5 h 3.414 v 1.561 h 0.046 c 0.477,-0.9 1.637,-1.85 3.37,-1.85 3.601,0 4.267,2.37 4.267,5.455 v 6.286 z M 5.837,7.933 c -1.144,0 -2.063,-0.926 -2.063,-2.065 0,-1.138 0.92,-2.063 2.063,-2.063 1.14,0 2.064,0.925 2.064,2.063 0,1.139 -0.925,2.065 -2.064,2.065 z M 7.619,20.952 H 4.055 V 9.5 H 7.619 Z M 22.725,0.5 H 2.271 C 1.292,0.5 0.5,1.274 0.5,2.229 v 20.542 c 0,0.956 0.792,1.729 1.771,1.729 H 22.722 C 23.7,24.5 24.5,23.727 24.5,22.771 V 2.229 C 24.5,1.274 23.7,0.5 22.722,0.5 Z"
+     id="path4"
+     style="fill:#646464;fill-opacity:1;stroke:#c8c8c8;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
+</svg>
