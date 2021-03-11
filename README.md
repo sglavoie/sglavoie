@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#160](https://github.com/datopian/gift-portal/pull/160) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-2. 🎉 Merged PR [#159](https://github.com/datopian/gift-portal/pull/159) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-3. 🗣 Commented on [#64](https://github.com/datopian/gift-publisher/issues/64) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-4. 🗣 Commented on [#157](https://github.com/datopian/gift-portal/issues/157) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-5. 🗣 Commented on [#581](https://github.com/frictionlessdata/project/issues/581) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
+1. ❗️ Opened issue [#162](https://github.com/datopian/gift-portal/issues/162) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+2. 🎉 Merged PR [#161](https://github.com/datopian/gift-portal/pull/161) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+3. 🎉 Merged PR [#160](https://github.com/datopian/gift-portal/pull/160) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+4. 🎉 Merged PR [#159](https://github.com/datopian/gift-portal/pull/159) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+5. 🗣 Commented on [#64](https://github.com/datopian/gift-publisher/issues/64) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
 <!--END_SECTION:activity-->
 
 
