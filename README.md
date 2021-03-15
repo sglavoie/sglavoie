@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#65](https://github.com/datopian/gift-publisher/issues/65) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-2. 🗣 Commented on [#619](https://github.com/frictionlessdata/project/issues/619) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
-3. ❗️ Opened issue [#66](https://github.com/datopian/gift-publisher/issues/66) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-4. ❗️ Opened issue [#11](https://github.com/sglavoie/uol-grades-calculator/issues/11) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
-5. ❗️ Closed issue [#8](https://github.com/sglavoie/uol-grades-calculator/issues/8) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
+1. ❗️ Opened issue [#67](https://github.com/datopian/gift-publisher/issues/67) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+2. ❗️ Closed issue [#66](https://github.com/datopian/gift-publisher/issues/66) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+3. 🗣 Commented on [#66](https://github.com/datopian/gift-publisher/issues/66) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+4. 🗣 Commented on [#65](https://github.com/datopian/gift-publisher/issues/65) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+5. 🗣 Commented on [#619](https://github.com/frictionlessdata/project/issues/619) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
 <!--END_SECTION:activity-->
 
 
