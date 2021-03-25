@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/datopian/gift-publisher/issues/74) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-2. ❗️ Opened issue [#76](https://github.com/datopian/gift-publisher/issues/76) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-3. ❗️ Opened issue [#74](https://github.com/datopian/gift-publisher/issues/74) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-4. ❗️ Opened issue [#168](https://github.com/datopian/gift-portal/issues/168) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-5. 🗣 Commented on [#72](https://github.com/datopian/gift-publisher/issues/72) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+1. ❗️ Opened issue [#77](https://github.com/datopian/gift-publisher/issues/77) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+2. 🗣 Commented on [#74](https://github.com/datopian/gift-publisher/issues/74) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+3. ❗️ Opened issue [#76](https://github.com/datopian/gift-publisher/issues/76) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+4. ❗️ Opened issue [#74](https://github.com/datopian/gift-publisher/issues/74) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+5. ❗️ Opened issue [#168](https://github.com/datopian/gift-portal/issues/168) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
 <!--END_SECTION:activity-->
 
 
