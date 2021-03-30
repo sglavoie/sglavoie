@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#168](https://github.com/datopian/gift-portal/issues/168) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-2. 🗣 Commented on [#79](https://github.com/datopian/gift-publisher/issues/79) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-3. 🎉 Merged PR [#169](https://github.com/datopian/gift-portal/pull/169) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-4. ❗️ Opened issue [#77](https://github.com/datopian/gift-publisher/issues/77) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-5. 🗣 Commented on [#74](https://github.com/datopian/gift-publisher/issues/74) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+1. 🎉 Merged PR [#185](https://github.com/world-class/REPL/pull/185) in [world-class/REPL](https://github.com/world-class/REPL)
+2. 🗣 Commented on [#122](https://github.com/world-class/REPL/issues/122) in [world-class/REPL](https://github.com/world-class/REPL)
+3. 🎉 Merged PR [#4](https://github.com/world-class/binary-assets/pull/4) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
+4. 🗣 Commented on [#168](https://github.com/datopian/gift-portal/issues/168) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+5. 🗣 Commented on [#79](https://github.com/datopian/gift-publisher/issues/79) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
 <!--END_SECTION:activity-->
 
 
