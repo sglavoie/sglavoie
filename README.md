@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#188](https://github.com/world-class/REPL/pull/188) in [world-class/REPL](https://github.com/world-class/REPL)
-2. 🗣 Commented on [#122](https://github.com/world-class/REPL/issues/122) in [world-class/REPL](https://github.com/world-class/REPL)
-3. 🎉 Merged PR [#5](https://github.com/world-class/binary-assets/pull/5) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
-4. 🗣 Commented on [#168](https://github.com/datopian/gift-portal/issues/168) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-5. 🎉 Merged PR [#187](https://github.com/world-class/REPL/pull/187) in [world-class/REPL](https://github.com/world-class/REPL)
+1. ❗️ Closed issue [#9](https://github.com/sglavoie/uol-grades-calculator/issues/9) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
+2. 🎉 Merged PR [#188](https://github.com/world-class/REPL/pull/188) in [world-class/REPL](https://github.com/world-class/REPL)
+3. 🗣 Commented on [#122](https://github.com/world-class/REPL/issues/122) in [world-class/REPL](https://github.com/world-class/REPL)
+4. 🎉 Merged PR [#5](https://github.com/world-class/binary-assets/pull/5) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
+5. 🗣 Commented on [#168](https://github.com/datopian/gift-portal/issues/168) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
 <!--END_SECTION:activity-->
 
 
