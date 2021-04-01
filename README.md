@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/sglavoie/uol-grades-calculator/issues/12) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
-2. 🗣 Commented on [#693](https://github.com/frictionlessdata/specs/issues/693) in [frictionlessdata/specs](https://github.com/frictionlessdata/specs)
-3. 💪 Opened PR [#726](https://github.com/frictionlessdata/specs/pull/726) in [frictionlessdata/specs](https://github.com/frictionlessdata/specs)
-4. ❗️ Closed issue [#9](https://github.com/sglavoie/uol-grades-calculator/issues/9) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
-5. 🎉 Merged PR [#188](https://github.com/world-class/REPL/pull/188) in [world-class/REPL](https://github.com/world-class/REPL)
+1. ❗️ Closed issue [#7](https://github.com/sglavoie/uol-grades-calculator/issues/7) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
+2. ❗️ Opened issue [#12](https://github.com/sglavoie/uol-grades-calculator/issues/12) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
+3. 🗣 Commented on [#693](https://github.com/frictionlessdata/specs/issues/693) in [frictionlessdata/specs](https://github.com/frictionlessdata/specs)
+4. 💪 Opened PR [#726](https://github.com/frictionlessdata/specs/pull/726) in [frictionlessdata/specs](https://github.com/frictionlessdata/specs)
+5. ❗️ Closed issue [#9](https://github.com/sglavoie/uol-grades-calculator/issues/9) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
 <!--END_SECTION:activity-->
 
 
