@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13](https://github.com/sglavoie/uol-grades-calculator/issues/13) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
-2. ❗️ Opened issue [#13](https://github.com/sglavoie/uol-grades-calculator/issues/13) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
-3. ❗️ Closed issue [#12](https://github.com/sglavoie/uol-grades-calculator/issues/12) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
-4. ❗️ Closed issue [#7](https://github.com/sglavoie/uol-grades-calculator/issues/7) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
-5. ❗️ Opened issue [#12](https://github.com/sglavoie/uol-grades-calculator/issues/12) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
+1. 🗣 Commented on [#6](https://github.com/world-class/binary-assets/issues/6) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
+2. 🎉 Merged PR [#6](https://github.com/world-class/binary-assets/pull/6) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
+3. ❗️ Closed issue [#13](https://github.com/sglavoie/uol-grades-calculator/issues/13) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
+4. ❗️ Opened issue [#13](https://github.com/sglavoie/uol-grades-calculator/issues/13) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
+5. ❗️ Closed issue [#12](https://github.com/sglavoie/uol-grades-calculator/issues/12) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
 <!--END_SECTION:activity-->
 
 
