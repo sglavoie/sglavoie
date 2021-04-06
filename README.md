@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/world-class/binary-assets/issues/6) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
-2. 🎉 Merged PR [#6](https://github.com/world-class/binary-assets/pull/6) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
-3. ❗️ Closed issue [#13](https://github.com/sglavoie/uol-grades-calculator/issues/13) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
-4. ❗️ Opened issue [#13](https://github.com/sglavoie/uol-grades-calculator/issues/13) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
-5. ❗️ Closed issue [#12](https://github.com/sglavoie/uol-grades-calculator/issues/12) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
+1. 🗣 Commented on [#535](https://github.com/frictionlessdata/specs/issues/535) in [frictionlessdata/specs](https://github.com/frictionlessdata/specs)
+2. 💪 Opened PR [#728](https://github.com/frictionlessdata/specs/pull/728) in [frictionlessdata/specs](https://github.com/frictionlessdata/specs)
+3. 🗣 Commented on [#6](https://github.com/world-class/binary-assets/issues/6) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
+4. 🎉 Merged PR [#6](https://github.com/world-class/binary-assets/pull/6) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
+5. ❗️ Closed issue [#13](https://github.com/sglavoie/uol-grades-calculator/issues/13) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
 <!--END_SECTION:activity-->
 
 
