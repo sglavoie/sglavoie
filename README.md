@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#481](https://github.com/frictionlessdata/project/issues/481) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
-2. 💪 Opened PR [#729](https://github.com/frictionlessdata/specs/pull/729) in [frictionlessdata/specs](https://github.com/frictionlessdata/specs)
-3. 🗣 Commented on [#535](https://github.com/frictionlessdata/specs/issues/535) in [frictionlessdata/specs](https://github.com/frictionlessdata/specs)
-4. 💪 Opened PR [#728](https://github.com/frictionlessdata/specs/pull/728) in [frictionlessdata/specs](https://github.com/frictionlessdata/specs)
-5. 🗣 Commented on [#6](https://github.com/world-class/binary-assets/issues/6) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
+1. 🎉 Merged PR [#189](https://github.com/world-class/REPL/pull/189) in [world-class/REPL](https://github.com/world-class/REPL)
+2. 🗣 Commented on [#122](https://github.com/world-class/REPL/issues/122) in [world-class/REPL](https://github.com/world-class/REPL)
+3. 🎉 Merged PR [#9](https://github.com/world-class/notes/pull/9) in [world-class/notes](https://github.com/world-class/notes)
+4. 🗣 Commented on [#9](https://github.com/world-class/notes/issues/9) in [world-class/notes](https://github.com/world-class/notes)
+5. 🗣 Commented on [#481](https://github.com/frictionlessdata/project/issues/481) in [frictionlessdata/project](https://github.com/frictionlessdata/project)
 <!--END_SECTION:activity-->
 
 
