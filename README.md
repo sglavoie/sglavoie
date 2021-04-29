@@ -36,7 +36,7 @@
 
 ## GitHub Stats
 
-<img alt="sglavoie's Github Stats" src="https://github-readme-stats.sglavoie.vercel.app/api?username=sglavoie&show_icons=true&hide_border=true" />
+<img alt="sglavoie's Github Stats" src="https://github-readme-stats.sglavoie.vercel.app/api?username=sglavoie&show_icons=true&title_color=5DC1FF&icon_color=fca311&text_color=e5e5e5&bg_color=000000" />
 
 <br /><br />
 
