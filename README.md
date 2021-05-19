@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#149](https://github.com/datopian/gift-portal/issues/149) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-2. 🗣 Commented on [#85](https://github.com/datopian/gift-publisher/issues/85) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-3. ❗️ Opened issue [#19](https://github.com/sglavoie/uol-grades-calculator/issues/19) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
-4. ❗️ Opened issue [#18](https://github.com/sglavoie/uol-grades-calculator/issues/18) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
-5. ❗️ Opened issue [#17](https://github.com/sglavoie/uol-grades-calculator/issues/17) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
+1. 🎉 Merged PR [#86](https://github.com/datopian/gift-publisher/pull/86) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+2. ❗️ Closed issue [#85](https://github.com/datopian/gift-publisher/issues/85) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+3. 🎉 Merged PR [#200](https://github.com/world-class/REPL/pull/200) in [world-class/REPL](https://github.com/world-class/REPL)
+4. 🗣 Commented on [#86](https://github.com/datopian/gift-publisher/issues/86) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+5. 🗣 Commented on [#149](https://github.com/datopian/gift-portal/issues/149) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
 <!--END_SECTION:activity-->
 
 
