@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#202](https://github.com/world-class/REPL/pull/202) in [world-class/REPL](https://github.com/world-class/REPL)
-2. 🎉 Merged PR [#177](https://github.com/datopian/gift-portal/pull/177) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-3. 🎉 Merged PR [#201](https://github.com/world-class/REPL/pull/201) in [world-class/REPL](https://github.com/world-class/REPL)
-4. 🎉 Merged PR [#86](https://github.com/datopian/gift-publisher/pull/86) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-5. ❗️ Closed issue [#85](https://github.com/datopian/gift-publisher/issues/85) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+1. ❗️ Opened issue [#178](https://github.com/datopian/gift-portal/issues/178) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+2. 🎉 Merged PR [#202](https://github.com/world-class/REPL/pull/202) in [world-class/REPL](https://github.com/world-class/REPL)
+3. 🎉 Merged PR [#177](https://github.com/datopian/gift-portal/pull/177) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+4. 🎉 Merged PR [#201](https://github.com/world-class/REPL/pull/201) in [world-class/REPL](https://github.com/world-class/REPL)
+5. 🎉 Merged PR [#86](https://github.com/datopian/gift-publisher/pull/86) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
 <!--END_SECTION:activity-->
 
 
