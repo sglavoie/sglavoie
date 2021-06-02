@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#183](https://github.com/datopian/gift-portal/pull/183) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-2. 💪 Opened PR [#183](https://github.com/datopian/gift-portal/pull/183) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-3. ❗️ Closed issue [#178](https://github.com/datopian/gift-portal/issues/178) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-4. 🎉 Merged PR [#182](https://github.com/datopian/gift-portal/pull/182) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-5. ❗️ Closed issue [#179](https://github.com/datopian/gift-portal/issues/179) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+1. 🎉 Merged PR [#185](https://github.com/datopian/gift-portal/pull/185) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+2. 💪 Opened PR [#185](https://github.com/datopian/gift-portal/pull/185) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+3. 🗣 Commented on [#184](https://github.com/datopian/gift-portal/issues/184) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+4. ❗️ Opened issue [#184](https://github.com/datopian/gift-portal/issues/184) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+5. 🎉 Merged PR [#183](https://github.com/datopian/gift-portal/pull/183) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
 <!--END_SECTION:activity-->
 
 
