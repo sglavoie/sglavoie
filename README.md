@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#185](https://github.com/datopian/gift-portal/pull/185) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-2. 💪 Opened PR [#185](https://github.com/datopian/gift-portal/pull/185) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-3. 🗣 Commented on [#184](https://github.com/datopian/gift-portal/issues/184) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-4. ❗️ Opened issue [#184](https://github.com/datopian/gift-portal/issues/184) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-5. 🎉 Merged PR [#183](https://github.com/datopian/gift-portal/pull/183) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+1. ❗️ Closed issue [#19](https://github.com/sglavoie/uol-grades-calculator/issues/19) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
+2. 🎉 Merged PR [#185](https://github.com/datopian/gift-portal/pull/185) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+3. 💪 Opened PR [#185](https://github.com/datopian/gift-portal/pull/185) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+4. 🗣 Commented on [#184](https://github.com/datopian/gift-portal/issues/184) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+5. ❗️ Opened issue [#184](https://github.com/datopian/gift-portal/issues/184) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
 <!--END_SECTION:activity-->
 
 
