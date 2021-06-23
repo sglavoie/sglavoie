@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#453](https://github.com/datopian/frontend/pull/453) in [datopian/frontend](https://github.com/datopian/frontend)
-2. 🗣 Commented on [#205](https://github.com/world-class/REPL/issues/205) in [world-class/REPL](https://github.com/world-class/REPL)
-3. 🎉 Merged PR [#204](https://github.com/world-class/REPL/pull/204) in [world-class/REPL](https://github.com/world-class/REPL)
-4. 🗣 Commented on [#203](https://github.com/world-class/REPL/issues/203) in [world-class/REPL](https://github.com/world-class/REPL)
-5. 🗣 Commented on [#203](https://github.com/world-class/REPL/issues/203) in [world-class/REPL](https://github.com/world-class/REPL)
+1. 🗣 Commented on [#198](https://github.com/frictionlessdata/website/issues/198) in [frictionlessdata/website](https://github.com/frictionlessdata/website)
+2. 💪 Opened PR [#205](https://github.com/frictionlessdata/website/pull/205) in [frictionlessdata/website](https://github.com/frictionlessdata/website)
+3. 💪 Opened PR [#453](https://github.com/datopian/frontend/pull/453) in [datopian/frontend](https://github.com/datopian/frontend)
+4. 🗣 Commented on [#205](https://github.com/world-class/REPL/issues/205) in [world-class/REPL](https://github.com/world-class/REPL)
+5. 🎉 Merged PR [#204](https://github.com/world-class/REPL/pull/204) in [world-class/REPL](https://github.com/world-class/REPL)
 <!--END_SECTION:activity-->
 
 
