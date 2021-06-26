@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#209](https://github.com/frictionlessdata/website/issues/209) in [frictionlessdata/website](https://github.com/frictionlessdata/website)
-2. 🗣 Commented on [#198](https://github.com/frictionlessdata/website/issues/198) in [frictionlessdata/website](https://github.com/frictionlessdata/website)
-3. 💪 Opened PR [#205](https://github.com/frictionlessdata/website/pull/205) in [frictionlessdata/website](https://github.com/frictionlessdata/website)
-4. 💪 Opened PR [#453](https://github.com/datopian/frontend/pull/453) in [datopian/frontend](https://github.com/datopian/frontend)
-5. 🗣 Commented on [#205](https://github.com/world-class/REPL/issues/205) in [world-class/REPL](https://github.com/world-class/REPL)
+1. 🗣 Commented on [#205](https://github.com/frictionlessdata/website/issues/205) in [frictionlessdata/website](https://github.com/frictionlessdata/website)
+2. 🗣 Commented on [#209](https://github.com/frictionlessdata/website/issues/209) in [frictionlessdata/website](https://github.com/frictionlessdata/website)
+3. 🗣 Commented on [#198](https://github.com/frictionlessdata/website/issues/198) in [frictionlessdata/website](https://github.com/frictionlessdata/website)
+4. 💪 Opened PR [#205](https://github.com/frictionlessdata/website/pull/205) in [frictionlessdata/website](https://github.com/frictionlessdata/website)
+5. 💪 Opened PR [#453](https://github.com/datopian/frontend/pull/453) in [datopian/frontend](https://github.com/datopian/frontend)
 <!--END_SECTION:activity-->
 
 
