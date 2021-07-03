@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#205](https://github.com/frictionlessdata/website/issues/205) in [frictionlessdata/website](https://github.com/frictionlessdata/website)
+1. ❗️ Closed issue [#27](https://github.com/sglavoie/uol-grades-calculator/issues/27) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
 2. 🗣 Commented on [#205](https://github.com/frictionlessdata/website/issues/205) in [frictionlessdata/website](https://github.com/frictionlessdata/website)
-3. 🗣 Commented on [#209](https://github.com/frictionlessdata/website/issues/209) in [frictionlessdata/website](https://github.com/frictionlessdata/website)
-4. 🗣 Commented on [#198](https://github.com/frictionlessdata/website/issues/198) in [frictionlessdata/website](https://github.com/frictionlessdata/website)
-5. 💪 Opened PR [#205](https://github.com/frictionlessdata/website/pull/205) in [frictionlessdata/website](https://github.com/frictionlessdata/website)
+3. 🗣 Commented on [#205](https://github.com/frictionlessdata/website/issues/205) in [frictionlessdata/website](https://github.com/frictionlessdata/website)
+4. 🗣 Commented on [#209](https://github.com/frictionlessdata/website/issues/209) in [frictionlessdata/website](https://github.com/frictionlessdata/website)
+5. 🗣 Commented on [#198](https://github.com/frictionlessdata/website/issues/198) in [frictionlessdata/website](https://github.com/frictionlessdata/website)
 <!--END_SECTION:activity-->
 
 
