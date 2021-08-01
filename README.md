@@ -1,11 +1,11 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Convenient and lightning fast backups with rsync](https://www.sglavoie.com/posts/2021/07/31/convenient-and-lightning-fast-backups-with-rsync/)
 - [Managing dotfiles with a Git bare repository](https://www.sglavoie.com/posts/2021/05/30/managing-dotfiles-with-git-bare-repository/)
 - [Setting up SSH and Git for Multiple Accounts](https://www.sglavoie.com/posts/2020/10/03/setting-up-ssh-and-git-for-multiple-accounts/)
 - [A Guided Tour of an i3 Configuration](https://www.sglavoie.com/posts/2020/08/15/a-guided-tour-of-an-i3-configuration/)
 - [My Current Set of Tools and Customizations](https://www.sglavoie.com/posts/2020/06/06/my-current-set-of-tools-and-customizations/)
-- [Tip the Scales in Times of Instability With the Rock-Solid Debian](https://www.sglavoie.com/posts/2020/04/05/tip-the-scales-in-times-of-instability-with-the-rock-solid-debian/)
 <!-- BLOG-POST-LIST:END -->
 
 
