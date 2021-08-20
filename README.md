@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#184](https://github.com/datopian/gift-portal/issues/184) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-2. ❗️ Closed issue [#184](https://github.com/datopian/gift-portal/issues/184) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-3. ❗️ Closed issue [#88](https://github.com/datopian/gift-publisher/issues/88) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-4. 🎉 Merged PR [#193](https://github.com/datopian/gift-portal/pull/193) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-5. 🎉 Merged PR [#189](https://github.com/datopian/gift-portal/pull/189) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+1. 🗣 Commented on [#83](https://github.com/datopian/gift-publisher/issues/83) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+2. 🗣 Commented on [#184](https://github.com/datopian/gift-portal/issues/184) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+3. ❗️ Closed issue [#184](https://github.com/datopian/gift-portal/issues/184) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+4. ❗️ Closed issue [#88](https://github.com/datopian/gift-publisher/issues/88) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+5. 🎉 Merged PR [#193](https://github.com/datopian/gift-portal/pull/193) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
 <!--END_SECTION:activity-->
 
 
