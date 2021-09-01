@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#34](https://github.com/sglavoie/uol-grades-calculator/issues/34) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
-2. ❗️ Opened issue [#34](https://github.com/sglavoie/uol-grades-calculator/issues/34) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
-3. ❗️ Closed issue [#33](https://github.com/sglavoie/uol-grades-calculator/issues/33) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
-4. ❗️ Opened issue [#33](https://github.com/sglavoie/uol-grades-calculator/issues/33) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
-5. ❗️ Opened issue [#6](https://github.com/sglavoie/uol-grades-calculator-server/issues/6) in [sglavoie/uol-grades-calculator-server](https://github.com/sglavoie/uol-grades-calculator-server)
+1. 🎉 Merged PR [#198](https://github.com/datopian/gift-portal/pull/198) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+2. ❗️ Closed issue [#34](https://github.com/sglavoie/uol-grades-calculator/issues/34) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
+3. ❗️ Opened issue [#34](https://github.com/sglavoie/uol-grades-calculator/issues/34) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
+4. ❗️ Closed issue [#33](https://github.com/sglavoie/uol-grades-calculator/issues/33) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
+5. ❗️ Opened issue [#33](https://github.com/sglavoie/uol-grades-calculator/issues/33) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
 <!--END_SECTION:activity-->
 
 
