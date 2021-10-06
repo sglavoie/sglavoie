@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#202](https://github.com/datopian/gift-portal/issues/202) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-2. ❗️ Closed issue [#3](https://github.com/sglavoie/uol-grades-calculator-server/issues/3) in [sglavoie/uol-grades-calculator-server](https://github.com/sglavoie/uol-grades-calculator-server)
-3. 🗣 Commented on [#95](https://github.com/datopian/gift-publisher/issues/95) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-4. ❗️ Closed issue [#92](https://github.com/datopian/gift-publisher/issues/92) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-5. 🗣 Commented on [#92](https://github.com/datopian/gift-publisher/issues/92) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+1. ❗️ Closed issue [#95](https://github.com/datopian/gift-publisher/issues/95) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+2. 🗣 Commented on [#95](https://github.com/datopian/gift-publisher/issues/95) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+3. ❗️ Opened issue [#97](https://github.com/datopian/gift-publisher/issues/97) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+4. ❗️ Opened issue [#203](https://github.com/datopian/gift-portal/issues/203) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+5. ❗️ Opened issue [#202](https://github.com/datopian/gift-portal/issues/202) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
 <!--END_SECTION:activity-->
 
 
