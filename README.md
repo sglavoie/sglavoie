@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/world-class/binary-assets/issues/7) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
-2. ❗️ Opened issue [#7](https://github.com/sglavoie/uol-grades-calculator-server/issues/7) in [sglavoie/uol-grades-calculator-server](https://github.com/sglavoie/uol-grades-calculator-server)
-3. ❗️ Closed issue [#6](https://github.com/sglavoie/uol-grades-calculator-server/issues/6) in [sglavoie/uol-grades-calculator-server](https://github.com/sglavoie/uol-grades-calculator-server)
-4. 🗣 Commented on [#6](https://github.com/sglavoie/uol-grades-calculator-server/issues/6) in [sglavoie/uol-grades-calculator-server](https://github.com/sglavoie/uol-grades-calculator-server)
-5. ❗️ Closed issue [#4](https://github.com/sglavoie/uol-grades-calculator-server/issues/4) in [sglavoie/uol-grades-calculator-server](https://github.com/sglavoie/uol-grades-calculator-server)
+1. ❗️ Opened issue [#8](https://github.com/sglavoie/uol-grades-calculator-server/issues/8) in [sglavoie/uol-grades-calculator-server](https://github.com/sglavoie/uol-grades-calculator-server)
+2. ❗️ Closed issue [#7](https://github.com/sglavoie/uol-grades-calculator-server/issues/7) in [sglavoie/uol-grades-calculator-server](https://github.com/sglavoie/uol-grades-calculator-server)
+3. ❗️ Opened issue [#7](https://github.com/world-class/binary-assets/issues/7) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
+4. ❗️ Opened issue [#7](https://github.com/sglavoie/uol-grades-calculator-server/issues/7) in [sglavoie/uol-grades-calculator-server](https://github.com/sglavoie/uol-grades-calculator-server)
+5. ❗️ Closed issue [#6](https://github.com/sglavoie/uol-grades-calculator-server/issues/6) in [sglavoie/uol-grades-calculator-server](https://github.com/sglavoie/uol-grades-calculator-server)
 <!--END_SECTION:activity-->
 
 
