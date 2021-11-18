@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8238](https://github.com/encode/django-rest-framework/pull/8238) in [encode/django-rest-framework](https://github.com/encode/django-rest-framework)
-2. ❗️ Opened issue [#11](https://github.com/sglavoie/uol-grades-calculator-server/issues/11) in [sglavoie/uol-grades-calculator-server](https://github.com/sglavoie/uol-grades-calculator-server)
-3. ❗️ Closed issue [#9](https://github.com/sglavoie/uol-grades-calculator-server/issues/9) in [sglavoie/uol-grades-calculator-server](https://github.com/sglavoie/uol-grades-calculator-server)
-4. 🗣 Commented on [#9](https://github.com/sglavoie/uol-grades-calculator-server/issues/9) in [sglavoie/uol-grades-calculator-server](https://github.com/sglavoie/uol-grades-calculator-server)
-5. ❗️ Opened issue [#35](https://github.com/sglavoie/uol-grades-calculator/issues/35) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
+1. ❗️ Opened issue [#3](https://github.com/sglavoie/dev-helpers/issues/3) in [sglavoie/dev-helpers](https://github.com/sglavoie/dev-helpers)
+2. 💪 Opened PR [#8238](https://github.com/encode/django-rest-framework/pull/8238) in [encode/django-rest-framework](https://github.com/encode/django-rest-framework)
+3. ❗️ Opened issue [#11](https://github.com/sglavoie/uol-grades-calculator-server/issues/11) in [sglavoie/uol-grades-calculator-server](https://github.com/sglavoie/uol-grades-calculator-server)
+4. ❗️ Closed issue [#9](https://github.com/sglavoie/uol-grades-calculator-server/issues/9) in [sglavoie/uol-grades-calculator-server](https://github.com/sglavoie/uol-grades-calculator-server)
+5. 🗣 Commented on [#9](https://github.com/sglavoie/uol-grades-calculator-server/issues/9) in [sglavoie/uol-grades-calculator-server](https://github.com/sglavoie/uol-grades-calculator-server)
 <!--END_SECTION:activity-->
 
 
