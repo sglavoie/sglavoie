@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/sglavoie/dev-helpers/issues/5) in [sglavoie/dev-helpers](https://github.com/sglavoie/dev-helpers)
-2. ❗️ Opened issue [#4](https://github.com/sglavoie/dev-helpers/issues/4) in [sglavoie/dev-helpers](https://github.com/sglavoie/dev-helpers)
-3. ❗️ Opened issue [#3](https://github.com/sglavoie/dev-helpers/issues/3) in [sglavoie/dev-helpers](https://github.com/sglavoie/dev-helpers)
-4. 💪 Opened PR [#8238](https://github.com/encode/django-rest-framework/pull/8238) in [encode/django-rest-framework](https://github.com/encode/django-rest-framework)
-5. ❗️ Opened issue [#11](https://github.com/sglavoie/uol-grades-calculator-server/issues/11) in [sglavoie/uol-grades-calculator-server](https://github.com/sglavoie/uol-grades-calculator-server)
+1. ❗️ Closed issue [#3](https://github.com/sglavoie/dev-helpers/issues/3) in [sglavoie/dev-helpers](https://github.com/sglavoie/dev-helpers)
+2. ❗️ Opened issue [#5](https://github.com/sglavoie/dev-helpers/issues/5) in [sglavoie/dev-helpers](https://github.com/sglavoie/dev-helpers)
+3. ❗️ Opened issue [#4](https://github.com/sglavoie/dev-helpers/issues/4) in [sglavoie/dev-helpers](https://github.com/sglavoie/dev-helpers)
+4. ❗️ Opened issue [#3](https://github.com/sglavoie/dev-helpers/issues/3) in [sglavoie/dev-helpers](https://github.com/sglavoie/dev-helpers)
+5. 💪 Opened PR [#8238](https://github.com/encode/django-rest-framework/pull/8238) in [encode/django-rest-framework](https://github.com/encode/django-rest-framework)
 <!--END_SECTION:activity-->
 
 
