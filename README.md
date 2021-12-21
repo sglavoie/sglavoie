@@ -1,11 +1,11 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Google Sheets as a database to extract data converted to Markdown](https://www.sglavoie.com/posts/2021/12/19/using-google-sheets-as-a-database-to-extract-data-converted-to-markdown/)
 - [Book summary: Letters to a New Developer](https://www.sglavoie.com/posts/2021/11/08/book-summary-letters-to-a-new-developer/)
 - [Managing multiple tmux sessions at once](https://www.sglavoie.com/posts/2021/09/19/managing-multiple-tmux-sessions-at-once/)
 - [Convenient and lightning fast backups with rsync](https://www.sglavoie.com/posts/2021/07/31/convenient-and-lightning-fast-backups-with-rsync/)
 - [Managing dotfiles with a Git bare repository](https://www.sglavoie.com/posts/2021/05/30/managing-dotfiles-with-git-bare-repository/)
-- [Setting up SSH and Git for Multiple Accounts](https://www.sglavoie.com/posts/2020/10/03/setting-up-ssh-and-git-for-multiple-accounts/)
 <!-- BLOG-POST-LIST:END -->
 
 
