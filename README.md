@@ -25,10 +25,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#221](https://github.com/world-class/REPL/issues/221) in [world-class/REPL](https://github.com/world-class/REPL)
-2. ❗️ Closed issue [#219](https://github.com/world-class/REPL/issues/219) in [world-class/REPL](https://github.com/world-class/REPL)
-3. 🗣 Commented on [#219](https://github.com/world-class/REPL/issues/219) in [world-class/REPL](https://github.com/world-class/REPL)
-4. 🎉 Merged PR [#220](https://github.com/world-class/REPL/pull/220) in [world-class/REPL](https://github.com/world-class/REPL)
-5. 💪 Opened PR [#220](https://github.com/world-class/REPL/pull/220) in [world-class/REPL](https://github.com/world-class/REPL)
+2. ❗️ Closed issue [#221](https://github.com/world-class/REPL/issues/221) in [world-class/REPL](https://github.com/world-class/REPL)
+3. 🗣 Commented on [#221](https://github.com/world-class/REPL/issues/221) in [world-class/REPL](https://github.com/world-class/REPL)
+4. ❗️ Closed issue [#219](https://github.com/world-class/REPL/issues/219) in [world-class/REPL](https://github.com/world-class/REPL)
+5. 🗣 Commented on [#219](https://github.com/world-class/REPL/issues/219) in [world-class/REPL](https://github.com/world-class/REPL)
 <!--END_SECTION:activity-->
 
 
