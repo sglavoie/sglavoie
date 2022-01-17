@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#225](https://github.com/world-class/REPL/issues/225) in [world-class/REPL](https://github.com/world-class/REPL)
-2. 🎉 Merged PR [#226](https://github.com/world-class/REPL/pull/226) in [world-class/REPL](https://github.com/world-class/REPL)
-3. 🗣 Commented on [#224](https://github.com/world-class/REPL/issues/224) in [world-class/REPL](https://github.com/world-class/REPL)
-4. 🎉 Merged PR [#224](https://github.com/world-class/REPL/pull/224) in [world-class/REPL](https://github.com/world-class/REPL)
-5. ❗️ Opened issue [#39](https://github.com/sglavoie/uol-grades-calculator/issues/39) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
+1. ❗️ Closed issue [#5](https://github.com/sglavoie/dev-helpers/issues/5) in [sglavoie/dev-helpers](https://github.com/sglavoie/dev-helpers)
+2. ❗️ Closed issue [#4](https://github.com/sglavoie/dev-helpers/issues/4) in [sglavoie/dev-helpers](https://github.com/sglavoie/dev-helpers)
+3. 🗣 Commented on [#225](https://github.com/world-class/REPL/issues/225) in [world-class/REPL](https://github.com/world-class/REPL)
+4. 🎉 Merged PR [#226](https://github.com/world-class/REPL/pull/226) in [world-class/REPL](https://github.com/world-class/REPL)
+5. 🗣 Commented on [#224](https://github.com/world-class/REPL/issues/224) in [world-class/REPL](https://github.com/world-class/REPL)
 <!--END_SECTION:activity-->
 
 
