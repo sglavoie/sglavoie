@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#225](https://github.com/world-class/REPL/issues/225) in [world-class/REPL](https://github.com/world-class/REPL)
-2. 🗣 Commented on [#225](https://github.com/world-class/REPL/issues/225) in [world-class/REPL](https://github.com/world-class/REPL)
-3. ❗️ Closed issue [#5](https://github.com/sglavoie/dev-helpers/issues/5) in [sglavoie/dev-helpers](https://github.com/sglavoie/dev-helpers)
-4. ❗️ Closed issue [#4](https://github.com/sglavoie/dev-helpers/issues/4) in [sglavoie/dev-helpers](https://github.com/sglavoie/dev-helpers)
-5. 🗣 Commented on [#225](https://github.com/world-class/REPL/issues/225) in [world-class/REPL](https://github.com/world-class/REPL)
+1. 🗣 Commented on [#227](https://github.com/world-class/REPL/issues/227) in [world-class/REPL](https://github.com/world-class/REPL)
+2. ❗️ Closed issue [#227](https://github.com/world-class/REPL/issues/227) in [world-class/REPL](https://github.com/world-class/REPL)
+3. ❗️ Closed issue [#225](https://github.com/world-class/REPL/issues/225) in [world-class/REPL](https://github.com/world-class/REPL)
+4. 🗣 Commented on [#225](https://github.com/world-class/REPL/issues/225) in [world-class/REPL](https://github.com/world-class/REPL)
+5. ❗️ Closed issue [#5](https://github.com/sglavoie/dev-helpers/issues/5) in [sglavoie/dev-helpers](https://github.com/sglavoie/dev-helpers)
 <!--END_SECTION:activity-->
 
 
