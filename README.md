@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/world-class/notes/issues/16) in [world-class/notes](https://github.com/world-class/notes)
-2. 🎉 Merged PR [#40](https://github.com/sglavoie/uol-grades-calculator/pull/40) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
-3. 🎉 Merged PR [#17](https://github.com/world-class/notes/pull/17) in [world-class/notes](https://github.com/world-class/notes)
-4. 🗣 Commented on [#15](https://github.com/world-class/notes/issues/15) in [world-class/notes](https://github.com/world-class/notes)
-5. 🎉 Merged PR [#15](https://github.com/world-class/notes/pull/15) in [world-class/notes](https://github.com/world-class/notes)
+1. 🗣 Commented on [#101](https://github.com/datasets/covid-19/issues/101) in [datasets/covid-19](https://github.com/datasets/covid-19)
+2. 🗣 Commented on [#16](https://github.com/world-class/notes/issues/16) in [world-class/notes](https://github.com/world-class/notes)
+3. 🎉 Merged PR [#40](https://github.com/sglavoie/uol-grades-calculator/pull/40) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
+4. 🎉 Merged PR [#17](https://github.com/world-class/notes/pull/17) in [world-class/notes](https://github.com/world-class/notes)
+5. 🗣 Commented on [#15](https://github.com/world-class/notes/issues/15) in [world-class/notes](https://github.com/world-class/notes)
 <!--END_SECTION:activity-->
 
 
