@@ -45,4 +45,4 @@
 [website]: https://www.sglavoie.com
 [twitter]: https://twitter.com/sgdlavoie
 [linkedin]: https://www.linkedin.com/in/sglavoie
-[stackoverflow]: https://stackoverflow.com/story/sglavoie
+[stackoverflow]: https://stackoverflow.com/users/8787680/s%C3%A9bastien-lavoie
