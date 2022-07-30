@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#239](https://github.com/world-class/REPL/pull/239) in [world-class/REPL](https://github.com/world-class/REPL)
-2. 🎉 Merged PR [#11](https://github.com/world-class/binary-assets/pull/11) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
-3. 🎉 Merged PR [#41](https://github.com/sglavoie/uol-grades-calculator/pull/41) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
-4. 🎉 Merged PR [#19](https://github.com/world-class/notes/pull/19) in [world-class/notes](https://github.com/world-class/notes)
-5. 🗣 Commented on [#101](https://github.com/datasets/covid-19/issues/101) in [datasets/covid-19](https://github.com/datasets/covid-19)
+1. 🎉 Merged PR [#241](https://github.com/world-class/REPL/pull/241) in [world-class/REPL](https://github.com/world-class/REPL)
+2. 🗣 Commented on [#240](https://github.com/world-class/REPL/issues/240) in [world-class/REPL](https://github.com/world-class/REPL)
+3. 🎉 Merged PR [#240](https://github.com/world-class/REPL/pull/240) in [world-class/REPL](https://github.com/world-class/REPL)
+4. 🎉 Merged PR [#239](https://github.com/world-class/REPL/pull/239) in [world-class/REPL](https://github.com/world-class/REPL)
+5. 🎉 Merged PR [#11](https://github.com/world-class/binary-assets/pull/11) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
 <!--END_SECTION:activity-->
 
 
