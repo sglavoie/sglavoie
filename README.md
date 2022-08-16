@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/sglavoie/dev-helpers/issues/6) in [sglavoie/dev-helpers](https://github.com/sglavoie/dev-helpers)
-2. 🗣 Commented on [#6](https://github.com/sglavoie/dev-helpers/issues/6) in [sglavoie/dev-helpers](https://github.com/sglavoie/dev-helpers)
-3. 🎉 Merged PR [#12](https://github.com/world-class/binary-assets/pull/12) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
-4. 🎉 Merged PR [#242](https://github.com/world-class/REPL/pull/242) in [world-class/REPL](https://github.com/world-class/REPL)
-5. 🎉 Merged PR [#241](https://github.com/world-class/REPL/pull/241) in [world-class/REPL](https://github.com/world-class/REPL)
+1. 🎉 Merged PR [#244](https://github.com/world-class/REPL/pull/244) in [world-class/REPL](https://github.com/world-class/REPL)
+2. 🗣 Commented on [#243](https://github.com/world-class/REPL/issues/243) in [world-class/REPL](https://github.com/world-class/REPL)
+3. 🎉 Merged PR [#243](https://github.com/world-class/REPL/pull/243) in [world-class/REPL](https://github.com/world-class/REPL)
+4. ❗️ Closed issue [#6](https://github.com/sglavoie/dev-helpers/issues/6) in [sglavoie/dev-helpers](https://github.com/sglavoie/dev-helpers)
+5. 🗣 Commented on [#6](https://github.com/sglavoie/dev-helpers/issues/6) in [sglavoie/dev-helpers](https://github.com/sglavoie/dev-helpers)
 <!--END_SECTION:activity-->
 
 
