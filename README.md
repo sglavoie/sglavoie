@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#246](https://github.com/world-class/REPL/issues/246) in [world-class/REPL](https://github.com/world-class/REPL)
-2. 🗣 Commented on [#246](https://github.com/world-class/REPL/issues/246) in [world-class/REPL](https://github.com/world-class/REPL)
-3. 🎉 Merged PR [#245](https://github.com/world-class/REPL/pull/245) in [world-class/REPL](https://github.com/world-class/REPL)
-4. 🗣 Commented on [#244](https://github.com/world-class/REPL/issues/244) in [world-class/REPL](https://github.com/world-class/REPL)
-5. 🎉 Merged PR [#18](https://github.com/world-class/binary-assets/pull/18) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
+1. ❗️ Closed issue [#35](https://github.com/sglavoie/uol-grades-calculator/issues/35) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
+2. 🗣 Commented on [#35](https://github.com/sglavoie/uol-grades-calculator/issues/35) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
+3. ❗️ Closed issue [#22](https://github.com/sglavoie/uol-grades-calculator/issues/22) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
+4. 🗣 Commented on [#22](https://github.com/sglavoie/uol-grades-calculator/issues/22) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
+5. 🗣 Commented on [#246](https://github.com/world-class/REPL/issues/246) in [world-class/REPL](https://github.com/world-class/REPL)
 <!--END_SECTION:activity-->
 
 
