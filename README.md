@@ -2,10 +2,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A retrospective on creating an impractical little tool just for fun](https://www.sglavoie.com/posts/2022/09/18/a-retrospective-on-creating-an-impractical-little-tool-just-for-fun/)
+- [What it took to propel a career in tech in five years](https://www.sglavoie.com/posts/2022/06/18/what-it-took-to-propel-a-career-in-tech-in-five-years/)
 - [Git the gist of it: common commands for a working workflow](https://www.sglavoie.com/posts/2022/04/03/git-the-gist-of-it-common-commands-for-a-working-workflow/)
 - [Using Google Sheets as a database to extract data converted to Markdown](https://www.sglavoie.com/posts/2021/12/19/using-google-sheets-as-a-database-to-extract-data-converted-to-markdown/)
 - [Book summary: Letters to a New Developer](https://www.sglavoie.com/posts/2021/11/08/book-summary-letters-to-a-new-developer/)
-- [Managing multiple tmux sessions at once](https://www.sglavoie.com/posts/2021/09/19/managing-multiple-tmux-sessions-at-once/)
 <!-- BLOG-POST-LIST:END -->
 
 
