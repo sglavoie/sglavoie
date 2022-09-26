@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/world-class/binary-assets/pull/19) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
-2. ❗️ Closed issue [#35](https://github.com/sglavoie/uol-grades-calculator/issues/35) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
-3. 🗣 Commented on [#35](https://github.com/sglavoie/uol-grades-calculator/issues/35) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
-4. ❗️ Closed issue [#22](https://github.com/sglavoie/uol-grades-calculator/issues/22) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
-5. 🗣 Commented on [#22](https://github.com/sglavoie/uol-grades-calculator/issues/22) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
+1. 🎉 Merged PR [#248](https://github.com/world-class/REPL/pull/248) in [world-class/REPL](https://github.com/world-class/REPL)
+2. 🗣 Commented on [#247](https://github.com/world-class/REPL/issues/247) in [world-class/REPL](https://github.com/world-class/REPL)
+3. 🎉 Merged PR [#247](https://github.com/world-class/REPL/pull/247) in [world-class/REPL](https://github.com/world-class/REPL)
+4. 🎉 Merged PR [#19](https://github.com/world-class/binary-assets/pull/19) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
+5. ❗️ Closed issue [#35](https://github.com/sglavoie/uol-grades-calculator/issues/35) in [sglavoie/uol-grades-calculator](https://github.com/sglavoie/uol-grades-calculator)
 <!--END_SECTION:activity-->
 
 
