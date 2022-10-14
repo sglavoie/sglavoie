@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#656](https://github.com/all-contributors/all-contributors/issues/656) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
-2. ❗️ Opened issue [#441](https://github.com/all-contributors/app/issues/441) in [all-contributors/app](https://github.com/all-contributors/app)
-3. ❗️ Opened issue [#654](https://github.com/all-contributors/all-contributors/issues/654) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
-4. 🎉 Merged PR [#257](https://github.com/world-class/REPL/pull/257) in [world-class/REPL](https://github.com/world-class/REPL)
-5. ❌ Closed PR [#256](https://github.com/world-class/REPL/pull/256) in [world-class/REPL](https://github.com/world-class/REPL)
+1. 🗣 Commented on [#656](https://github.com/all-contributors/all-contributors/issues/656) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
+2. ❗️ Opened issue [#656](https://github.com/all-contributors/all-contributors/issues/656) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
+3. ❗️ Opened issue [#441](https://github.com/all-contributors/app/issues/441) in [all-contributors/app](https://github.com/all-contributors/app)
+4. ❗️ Opened issue [#654](https://github.com/all-contributors/all-contributors/issues/654) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
+5. 🎉 Merged PR [#257](https://github.com/world-class/REPL/pull/257) in [world-class/REPL](https://github.com/world-class/REPL)
 <!--END_SECTION:activity-->
 
 
