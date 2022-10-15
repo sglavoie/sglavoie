@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#656](https://github.com/all-contributors/all-contributors/issues/656) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
-2. ❗️ Opened issue [#656](https://github.com/all-contributors/all-contributors/issues/656) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
-3. ❗️ Opened issue [#441](https://github.com/all-contributors/app/issues/441) in [all-contributors/app](https://github.com/all-contributors/app)
-4. ❗️ Opened issue [#654](https://github.com/all-contributors/all-contributors/issues/654) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
-5. 🎉 Merged PR [#257](https://github.com/world-class/REPL/pull/257) in [world-class/REPL](https://github.com/world-class/REPL)
+1. 🎉 Merged PR [#258](https://github.com/world-class/REPL/pull/258) in [world-class/REPL](https://github.com/world-class/REPL)
+2. 🗣 Commented on [#246](https://github.com/world-class/REPL/issues/246) in [world-class/REPL](https://github.com/world-class/REPL)
+3. ❗️ Closed issue [#246](https://github.com/world-class/REPL/issues/246) in [world-class/REPL](https://github.com/world-class/REPL)
+4. 🗣 Commented on [#246](https://github.com/world-class/REPL/issues/246) in [world-class/REPL](https://github.com/world-class/REPL)
+5. 🗣 Commented on [#656](https://github.com/all-contributors/all-contributors/issues/656) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
 <!--END_SECTION:activity-->
 
 
