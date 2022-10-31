@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#264](https://github.com/world-class/REPL/issues/264) in [world-class/REPL](https://github.com/world-class/REPL)
-2. 🎉 Merged PR [#262](https://github.com/world-class/REPL/pull/262) in [world-class/REPL](https://github.com/world-class/REPL)
-3. 🗣 Commented on [#261](https://github.com/world-class/REPL/issues/261) in [world-class/REPL](https://github.com/world-class/REPL)
-4. 🎉 Merged PR [#261](https://github.com/world-class/REPL/pull/261) in [world-class/REPL](https://github.com/world-class/REPL)
-5. 🎉 Merged PR [#260](https://github.com/world-class/REPL/pull/260) in [world-class/REPL](https://github.com/world-class/REPL)
+1. 🎉 Merged PR [#20](https://github.com/world-class/binary-assets/pull/20) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
+2. 🗣 Commented on [#264](https://github.com/world-class/REPL/issues/264) in [world-class/REPL](https://github.com/world-class/REPL)
+3. 🎉 Merged PR [#262](https://github.com/world-class/REPL/pull/262) in [world-class/REPL](https://github.com/world-class/REPL)
+4. 🗣 Commented on [#261](https://github.com/world-class/REPL/issues/261) in [world-class/REPL](https://github.com/world-class/REPL)
+5. 🎉 Merged PR [#261](https://github.com/world-class/REPL/pull/261) in [world-class/REPL](https://github.com/world-class/REPL)
 <!--END_SECTION:activity-->
 
 
