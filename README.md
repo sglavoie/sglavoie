@@ -1,11 +1,11 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reviewing the process of building a first React Native application](https://www.sglavoie.com/posts/2023/03/04/reviewing-the-process-of-building-a-first-React-Native-application/)
 - [Git worktrees for a better parallel workflow](https://www.sglavoie.com/posts/2023/01/02/git-worktrees-for-a-better-parallel-workflow/)
 - [Uncovering some of the merits of text-based diagrams](https://www.sglavoie.com/posts/2022/11/19/uncovering-some-of-the-merits-of-text-based-diagrams/)
 - [Building the next Facebook in a couple of weeks &lpar;as a humble experiment&rpar;](https://www.sglavoie.com/posts/2022/10/14/building-the-next-Facebook-in-a-couple-of-weeks-as-a-humble-experiment/)
 - [A retrospective on creating an impractical little tool just for fun](https://www.sglavoie.com/posts/2022/09/18/a-retrospective-on-creating-an-impractical-little-tool-just-for-fun/)
-- [What it took to propel a career in tech in five years](https://www.sglavoie.com/posts/2022/06/18/what-it-took-to-propel-a-career-in-tech-in-five-years/)
 <!-- BLOG-POST-LIST:END -->
 
 
