@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/world-class/notes/pull/28) in [world-class/notes](https://github.com/world-class/notes)
-2. 🎉 Merged PR [#25](https://github.com/world-class/binary-assets/pull/25) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
-3. 🗣 Commented on [#25](https://github.com/world-class/binary-assets/issues/25) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
-4. 🗣 Commented on [#23](https://github.com/world-class/notes/issues/23) in [world-class/notes](https://github.com/world-class/notes)
-5. 🎉 Merged PR [#23](https://github.com/world-class/notes/pull/23) in [world-class/notes](https://github.com/world-class/notes)
+1. 🎉 Merged PR [#29](https://github.com/world-class/notes/pull/29) in [world-class/notes](https://github.com/world-class/notes)
+2. 🗣 Commented on [#29](https://github.com/world-class/notes/issues/29) in [world-class/notes](https://github.com/world-class/notes)
+3. 🎉 Merged PR [#28](https://github.com/world-class/notes/pull/28) in [world-class/notes](https://github.com/world-class/notes)
+4. 🎉 Merged PR [#25](https://github.com/world-class/binary-assets/pull/25) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
+5. 🗣 Commented on [#25](https://github.com/world-class/binary-assets/issues/25) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
 <!--END_SECTION:activity-->
 
 
