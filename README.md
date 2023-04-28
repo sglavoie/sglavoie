@@ -24,11 +24,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#269](https://github.com/world-class/REPL/issues/269) in [world-class/REPL](https://github.com/world-class/REPL)
-2. 🎉 Merged PR [#270](https://github.com/world-class/REPL/pull/270) in [world-class/REPL](https://github.com/world-class/REPL)
-3. 🗣 Commented on [#269](https://github.com/world-class/REPL/issues/269) in [world-class/REPL](https://github.com/world-class/REPL)
-4. ❗️ Opened issue [#269](https://github.com/world-class/REPL/issues/269) in [world-class/REPL](https://github.com/world-class/REPL)
-5. ❗️ Opened issue [#3](https://github.com/world-class/next-semester-start/issues/3) in [world-class/next-semester-start](https://github.com/world-class/next-semester-start)
+1. 🎉 Merged PR [#9](https://github.com/sglavoie/dev-helpers/pull/9) in [sglavoie/dev-helpers](https://github.com/sglavoie/dev-helpers)
+2. 🎉 Merged PR [#8](https://github.com/sglavoie/dev-helpers/pull/8) in [sglavoie/dev-helpers](https://github.com/sglavoie/dev-helpers)
+3. 🎉 Merged PR [#7](https://github.com/sglavoie/dev-helpers/pull/7) in [sglavoie/dev-helpers](https://github.com/sglavoie/dev-helpers)
+4. ❗️ Closed issue [#269](https://github.com/world-class/REPL/issues/269) in [world-class/REPL](https://github.com/world-class/REPL)
+5. 🎉 Merged PR [#270](https://github.com/world-class/REPL/pull/270) in [world-class/REPL](https://github.com/world-class/REPL)
 <!--END_SECTION:activity-->
 
 
