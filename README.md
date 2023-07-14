@@ -25,10 +25,10 @@
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#281](https://github.com/world-class/REPL/pull/281) in [world-class/REPL](https://github.com/world-class/REPL)
-2. 🗣 Commented on [#280](https://github.com/world-class/REPL/issues/280) in [world-class/REPL](https://github.com/world-class/REPL)
+2. 🗣 Commented on [#280](https://github.com/world-class/REPL/issues/280#issuecomment-1610428890) in [world-class/REPL](https://github.com/world-class/REPL)
 3. 🔒 Closed issue [#280](https://github.com/world-class/REPL/issues/280) in [world-class/REPL](https://github.com/world-class/REPL)
 4. 🎉 Merged PR [#275](https://github.com/world-class/REPL/pull/275) in [world-class/REPL](https://github.com/world-class/REPL)
-5. 🗣 Commented on [#275](https://github.com/world-class/REPL/issues/275) in [world-class/REPL](https://github.com/world-class/REPL)
+5. 🗣 Commented on [#275](https://github.com/world-class/REPL/pull/275#issuecomment-1586379931) in [world-class/REPL](https://github.com/world-class/REPL)
 <!--END_SECTION:activity-->
 
 
