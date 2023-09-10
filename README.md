@@ -1,11 +1,11 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Book summary: Refactoring UI](https://www.sglavoie.com/posts/2023/09/09/book-summary-refactoring-ui/)
 - [Building a task planner with React Native: an academic journey](https://www.sglavoie.com/posts/2023/07/30/building-task-planner-react-native/)
 - [Book summary: Effective Java](https://www.sglavoie.com/posts/2023/06/11/book-summary-effective-java/)
 - [Systematic reviews](https://www.sglavoie.com/posts/2023/05/14/systematic-reviews/)
 - [Book summary: The Effective Engineer](https://www.sglavoie.com/posts/2023/04/16/book-summary-the-effective-engineer/)
-- [Reviewing the process of building a first React Native application](https://www.sglavoie.com/posts/2023/03/04/reviewing-the-process-of-building-a-first-React-Native-application/)
 <!-- BLOG-POST-LIST:END -->
 
 
