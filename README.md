@@ -1,11 +1,11 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [First Steps with RxJS](https://www.sglavoie.com/posts/2023/10/01/first-steps-with-rxjs/)
 - [Book summary: Refactoring UI](https://www.sglavoie.com/posts/2023/09/09/book-summary-refactoring-ui/)
 - [Building a task planner with React Native: an academic journey](https://www.sglavoie.com/posts/2023/07/30/building-task-planner-react-native/)
 - [Book summary: Effective Java](https://www.sglavoie.com/posts/2023/06/11/book-summary-effective-java/)
 - [Systematic reviews](https://www.sglavoie.com/posts/2023/05/14/systematic-reviews/)
-- [Book summary: The Effective Engineer](https://www.sglavoie.com/posts/2023/04/16/book-summary-the-effective-engineer/)
 <!-- BLOG-POST-LIST:END -->
 
 
