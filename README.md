@@ -1,3 +1,7 @@
+![sglavoie's github stats](https://github-readme-stats.sglavoie.vercel.app/api?username=sglavoie&count_private=true&show_icons=true&theme=darcula)
+
+![sglavoie's Top Langs](https://github-readme-stats.sglavoie.vercel.app/api/top-langs/?username=sglavoie&layout=compact&theme=darcula)
+
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -30,15 +34,6 @@
 4. 🎉 Merged PR [#287](https://github.com/world-class/REPL/pull/287) in [world-class/REPL](https://github.com/world-class/REPL)
 5. 🎉 Merged PR [#286](https://github.com/world-class/REPL/pull/286) in [world-class/REPL](https://github.com/world-class/REPL)
 <!--END_SECTION:activity-->
-
-
-<br />
-
-## GitHub Stats
-
-<img alt="sglavoie's Github Stats" src="https://github-readme-stats.sglavoie.vercel.app/api?username=sglavoie&show_icons=true&title_color=5DC1FF&icon_color=fca311&text_color=e5e5e5&bg_color=000000" />
-
-<br /><br />
 
 [hackerrank]: https://www.hackerrank.com/sglavoie
 [rss]: https://www.sglavoie.com/feeds/sglavoie.rss.xml
