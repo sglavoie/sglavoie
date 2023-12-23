@@ -1,6 +1,26 @@
-![sglavoie's github stats](https://github-readme-stats.sglavoie.vercel.app/api?username=sglavoie&count_private=true&show_icons=true&theme=darcula)
+<picture>
+  <source
+    srcset="./assets/stats-dark.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="./assets/stats-light.svg"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="./assets/stats-light.svg" alt="sglavoie's stats" />
+</picture>
 
-![sglavoie's Top Langs](https://github-readme-stats.sglavoie.vercel.app/api/top-langs/?username=sglavoie&layout=compact&theme=darcula)
+<picture>
+  <source
+    srcset="./assets/top-langs-dark.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="./assets/top-langs-light.svg"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="./assets/top-langs-light.svg" alt="sglavoie's top langs" />
+</picture>
 
 ## 📚 Latest Blog Posts
 
