@@ -14,19 +14,27 @@ jobs:
     name: Download assets
 
     steps:
-      - name: Download the stats file
-        run: curl 'https://github-readme-stats.sglavoie.vercel.app/api?username=sglavoie&count_private=true&show_icons=true&theme=darcula' -o stats.svg
+      - name: Download the stats file, dark theme
+        run: curl 'https://github-readme-stats.sglavoie.vercel.app/api?username=sglavoie&count_private=true&show_icons=true&theme=gruvbox&show=prs_merged,prs_merged_percentage' -o stats-dark.svg
 
-      - name: Download the top languages file
-        run: curl 'https://github-readme-stats.sglavoie.vercel.app/api/top-langs/?username=sglavoie&layout=compact&theme=darcula' -o top-langs.svg
+      - name: Download the stats file, light theme
+        run: curl 'https://github-readme-stats.sglavoie.vercel.app/api?username=sglavoie&count_private=true&show_icons=true&show=prs_merged,prs_merged_percentage' -o stats-light.svg
+
+      - name: Download the top languages file, dark theme
+        run: curl 'https://github-readme-stats.sglavoie.vercel.app/api/top-langs/?username=sglavoie&layout=donut&theme=darcula&hide=c,html,css,lua,makefile,perl,roff,ruby,Vim%20Snippet&langs_count=6' -o top-langs-dark.svg
+
+      - name: Download the top languages file, light theme
+        run: curl 'https://github-readme-stats.sglavoie.vercel.app/api/top-langs/?username=sglavoie&layout=donut&hide=c,html,css,lua,makefile,perl,roff,ruby,Vim%20Snippet&langs_count=6' -o top-langs-light.svg
 
       - name: Upload artifacts
         uses: actions/upload-artifact@a8a3f3ad30e3422c9c7b888a15615d19a852ae32 # v3
         with:
           name: assets
           path: |
-            stats.svg
-            top-langs.svg
+            stats-dark.svg
+            stats-light.svg
+            top-langs-dark.svg
+            top-langs-light.svg
 
   push-assets:
     runs-on: ubuntu-latest
