@@ -48,11 +48,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/TomWright/dasel-docs/pull/6#issuecomment-1868395811) in [TomWright/dasel-docs](https://github.com/TomWright/dasel-docs)
-2. 💪 Opened PR [#6](https://github.com/TomWright/dasel-docs/pull/6) in [TomWright/dasel-docs](https://github.com/TomWright/dasel-docs)
-3. 🎉 Merged PR [#288](https://github.com/world-class/REPL/pull/288) in [world-class/REPL](https://github.com/world-class/REPL)
-4. 🗣 Commented on [#287](https://github.com/world-class/REPL/pull/287#issuecomment-1826460874) in [world-class/REPL](https://github.com/world-class/REPL)
-5. 🗣 Commented on [#287](https://github.com/world-class/REPL/pull/287#issuecomment-1826460563) in [world-class/REPL](https://github.com/world-class/REPL)
+1. 🎉 Merged PR [#34](https://github.com/world-class/binary-assets/pull/34) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
+2. 🗣 Commented on [#6](https://github.com/TomWright/dasel-docs/pull/6#issuecomment-1868395811) in [TomWright/dasel-docs](https://github.com/TomWright/dasel-docs)
+3. 💪 Opened PR [#6](https://github.com/TomWright/dasel-docs/pull/6) in [TomWright/dasel-docs](https://github.com/TomWright/dasel-docs)
+4. 🎉 Merged PR [#288](https://github.com/world-class/REPL/pull/288) in [world-class/REPL](https://github.com/world-class/REPL)
+5. 🗣 Commented on [#287](https://github.com/world-class/REPL/pull/287#issuecomment-1826460874) in [world-class/REPL](https://github.com/world-class/REPL)
 <!--END_SECTION:activity-->
 
 [hackerrank]: https://www.hackerrank.com/sglavoie
