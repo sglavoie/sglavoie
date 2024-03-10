@@ -25,11 +25,11 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Book summary: Dive into Design Patterns](https://www.sglavoie.com/posts/2024/03/09/book-summary-dive-into-design-patterns/)
 - [Book summary: Learning Go – An Idiomatic Approach to Real-World Go Programming](https://www.sglavoie.com/posts/2023/10/20/book-summary-learning-go-idiomatic-approach-real-world-go-programming/)
 - [First Steps with RxJS](https://www.sglavoie.com/posts/2023/10/01/first-steps-with-rxjs/)
 - [Book summary: Refactoring UI](https://www.sglavoie.com/posts/2023/09/09/book-summary-refactoring-ui/)
 - [Building a task planner with React Native: an academic journey](https://www.sglavoie.com/posts/2023/07/30/building-task-planner-react-native/)
-- [Book summary: Effective Java](https://www.sglavoie.com/posts/2023/06/11/book-summary-effective-java/)
 <!-- BLOG-POST-LIST:END -->
 
 
