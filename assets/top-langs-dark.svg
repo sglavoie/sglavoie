@@ -126,35 +126,35 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 38.55%
+        Python 38.33%
       </text>
     </g>
   </g><g transform="translate(0, 32)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#89e051" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 32.63%
+        Shell 33.03%
       </text>
     </g>
   </g><g transform="translate(0, 64)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#199f4b" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vim Script 15.08%
+        Vim Script 14.99%
       </text>
     </g>
   </g><g transform="translate(0, 96)">
     <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#00ADD8" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Go 9.53%
+        Go 9.48%
       </text>
     </g>
   </g><g transform="translate(0, 128)">
     <g class="stagger" style="animation-delay: 1050ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 3.93%
+        TypeScript 3.91%
       </text>
     </g>
   </g><g transform="translate(0, 160)">
@@ -172,8 +172,8 @@
        <g class="stagger" style="animation-delay: 600ms">
         <path
           data-testid="lang-donut"
-          size="38.55"
-          d="M 154.00728353224397 159.2904797669663 A 56.66666666666667 56.66666666666667 0 0 0 116.66666666666667 60"
+          size="38.33"
+          d="M 154.59288668231864 158.77026445160033 A 56.66666666666667 56.66666666666667 0 0 0 116.66666666666667 60"
           stroke="#3572A5"
           fill="none"
           stroke-width="12">
@@ -183,8 +183,8 @@
        <g class="stagger" style="animation-delay: 700ms">
         <path
           data-testid="lang-donut"
-          size="32.63"
-          d="M 61.624419562941775 130.1374552435689 A 56.66666666666667 56.66666666666667 0 0 0 154.00728353224397 159.2904797669663"
+          size="33.03"
+          d="M 61.47559197264141 129.51409384994489 A 56.66666666666667 56.66666666666667 0 0 0 154.59288668231864 158.77026445160033"
           stroke="#89e051"
           fill="none"
           stroke-width="12">
@@ -194,8 +194,8 @@
        <g class="stagger" style="animation-delay: 800ms">
         <path
           data-testid="lang-donut"
-          size="15.08"
-          d="M 73.600127200502 79.83754382182562 A 56.66666666666667 56.66666666666667 0 0 0 61.624419562941775 130.1374552435689"
+          size="14.99"
+          d="M 73.8090784524166 79.59459842696785 A 56.66666666666667 56.66666666666667 0 0 0 61.47559197264141 129.51409384994489"
           stroke="#199f4b"
           fill="none"
           stroke-width="12">
@@ -205,8 +205,8 @@
        <g class="stagger" style="animation-delay: 900ms">
         <path
           data-testid="lang-donut"
-          size="9.53"
-          d="M 101.85127875702622 61.97100511844156 A 56.66666666666667 56.66666666666667 0 0 0 73.600127200502 79.83754382182562"
+          size="9.48"
+          d="M 101.9887905941322 61.93394277035002 A 56.66666666666667 56.66666666666667 0 0 0 73.8090784524166 79.59459842696785"
           stroke="#00ADD8"
           fill="none"
           stroke-width="12">
@@ -216,8 +216,8 @@
        <g class="stagger" style="animation-delay: 1000ms">
         <path
           data-testid="lang-donut"
-          size="3.93"
-          d="M 115.66978602400442 60.00876924631232 A 56.66666666666667 56.66666666666667 0 0 0 101.85127875702622 61.97100511844156"
+          size="3.91"
+          d="M 115.74098520609247 60.00756126475743 A 56.66666666666667 56.66666666666667 0 0 0 101.9887905941322 61.93394277035002"
           stroke="#3178c6"
           fill="none"
           stroke-width="12">
@@ -228,7 +228,7 @@
         <path
           data-testid="lang-donut"
           size="0.27"
-          d="M 116.63106195226871 60.00001118555129 A 56.66666666666667 56.66666666666667 0 0 0 115.66978602400442 60.00876924631232"
+          d="M 116.70227138106466 60.00001118555129 A 56.66666666666667 56.66666666666667 0 0 0 115.74098520609247 60.00756126475743"
           stroke="#f1e05a"
           fill="none"
           stroke-width="12">
