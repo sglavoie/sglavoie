@@ -48,11 +48,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/world-class/notes/pull/34) in [world-class/notes](https://github.com/world-class/notes)
-2. 🎉 Merged PR [#35](https://github.com/world-class/binary-assets/pull/35) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
-3. 🎉 Merged PR [#33](https://github.com/world-class/notes/pull/33) in [world-class/notes](https://github.com/world-class/notes)
-4. 🎉 Merged PR [#289](https://github.com/world-class/REPL/pull/289) in [world-class/REPL](https://github.com/world-class/REPL)
-5. 🎉 Merged PR [#34](https://github.com/world-class/binary-assets/pull/34) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
+1. 🗣 Commented on [#36](https://github.com/world-class/notes/pull/36#issuecomment-2033459815) in [world-class/notes](https://github.com/world-class/notes)
+2. 🗣 Commented on [#35](https://github.com/world-class/notes/pull/35#issuecomment-2033459655) in [world-class/notes](https://github.com/world-class/notes)
+3. 🎉 Merged PR [#34](https://github.com/world-class/notes/pull/34) in [world-class/notes](https://github.com/world-class/notes)
+4. 🎉 Merged PR [#35](https://github.com/world-class/binary-assets/pull/35) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
+5. 🎉 Merged PR [#33](https://github.com/world-class/notes/pull/33) in [world-class/notes](https://github.com/world-class/notes)
 <!--END_SECTION:activity-->
 
 [hackerrank]: https://www.hackerrank.com/sglavoie
