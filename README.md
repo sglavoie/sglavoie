@@ -48,11 +48,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#303](https://github.com/world-class/REPL/issues/303) in [world-class/REPL](https://github.com/world-class/REPL)
-2. 🔒 Closed issue [#302](https://github.com/world-class/REPL/issues/302) in [world-class/REPL](https://github.com/world-class/REPL)
-3. 🔒 Closed issue [#301](https://github.com/world-class/REPL/issues/301) in [world-class/REPL](https://github.com/world-class/REPL)
-4. 🔒 Closed issue [#300](https://github.com/world-class/REPL/issues/300) in [world-class/REPL](https://github.com/world-class/REPL)
-5. 🔒 Closed issue [#298](https://github.com/world-class/REPL/issues/298) in [world-class/REPL](https://github.com/world-class/REPL)
+1. 🔒 Closed issue [#97](https://github.com/datopian/gift-publisher/issues/97) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+2. 🔒 Closed issue [#203](https://github.com/datopian/gift-portal/issues/203) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+3. 🔒 Closed issue [#202](https://github.com/datopian/gift-portal/issues/202) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
+4. 🔒 Closed issue [#45](https://github.com/datopian/gift-publisher/issues/45) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
+5. 🔒 Closed issue [#41](https://github.com/datopian/ckan-client-js/issues/41) in [datopian/ckan-client-js](https://github.com/datopian/ckan-client-js)
 <!--END_SECTION:activity-->
 
 [hackerrank]: https://www.hackerrank.com/sglavoie
