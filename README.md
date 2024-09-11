@@ -48,11 +48,11 @@
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#97](https://github.com/datopian/gift-publisher/issues/97) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-2. 🔒 Closed issue [#203](https://github.com/datopian/gift-portal/issues/203) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-3. 🔒 Closed issue [#202](https://github.com/datopian/gift-portal/issues/202) in [datopian/gift-portal](https://github.com/datopian/gift-portal)
-4. 🔒 Closed issue [#45](https://github.com/datopian/gift-publisher/issues/45) in [datopian/gift-publisher](https://github.com/datopian/gift-publisher)
-5. 🔒 Closed issue [#41](https://github.com/datopian/ckan-client-js/issues/41) in [datopian/ckan-client-js](https://github.com/datopian/ckan-client-js)
+1. 🎉 Merged PR [#37](https://github.com/world-class/binary-assets/pull/37) in [world-class/binary-assets](https://github.com/world-class/binary-assets)
+2. 🎉 Merged PR [#36](https://github.com/world-class/notes/pull/36) in [world-class/notes](https://github.com/world-class/notes)
+3. 🗣 Commented on [#36](https://github.com/world-class/notes/pull/36#issuecomment-2341585511) in [world-class/notes](https://github.com/world-class/notes)
+4. 🎉 Merged PR [#35](https://github.com/world-class/notes/pull/35) in [world-class/notes](https://github.com/world-class/notes)
+5. 🗣 Commented on [#35](https://github.com/world-class/notes/pull/35#issuecomment-2341582012) in [world-class/notes](https://github.com/world-class/notes)
 <!--END_SECTION:activity-->
 
 [hackerrank]: https://www.hackerrank.com/sglavoie
