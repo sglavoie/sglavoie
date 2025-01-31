@@ -27,7 +27,7 @@ jobs:
         run: curl 'https://github-readme-stats.sglavoie.vercel.app/api/top-langs/?username=sglavoie&layout=donut&hide=c,html,css,lua,makefile,perl,roff,ruby,Vim%20Snippet&langs_count=6' -o top-langs-light.svg
 
       - name: Upload artifacts
-        uses: actions/upload-artifact@a8a3f3ad30e3422c9c7b888a15615d19a852ae32 # v3
+        uses: actions/upload-artifact@v4
         with:
           name: assets
           path: |
@@ -41,12 +41,12 @@ jobs:
     name: Push assets
     needs: [download-assets]
     steps:
-      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4
-      - uses: actions/download-artifact@9bc31d5ccc31df68ecc42ccf4149144866c47d8a # v3
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
         with:
           name: assets
           path: assets
-      - uses: stefanzweifel/git-auto-commit-action@8756aa072ef5b4a080af5dc8fef36c5d586e521d # v5
+      - uses: stefanzweifel/git-auto-commit-action@v5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
