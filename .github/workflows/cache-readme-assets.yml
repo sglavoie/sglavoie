@@ -20,12 +20,6 @@ jobs:
       - name: Download the stats file, light theme
         run: curl 'https://github-readme-stats.sglavoie.vercel.app/api?username=sglavoie&count_private=true&show_icons=true&show=prs_merged,prs_merged_percentage' -o stats-light.svg
 
-      - name: Download the top languages file, dark theme
-        run: curl 'https://github-readme-stats.sglavoie.vercel.app/api/top-langs/?username=sglavoie&layout=donut&theme=darcula&hide=c,html,css,lua,makefile,perl,roff,ruby,Vim%20Snippet&langs_count=6' -o top-langs-dark.svg
-
-      - name: Download the top languages file, light theme
-        run: curl 'https://github-readme-stats.sglavoie.vercel.app/api/top-langs/?username=sglavoie&layout=donut&hide=c,html,css,lua,makefile,perl,roff,ruby,Vim%20Snippet&langs_count=6' -o top-langs-light.svg
-
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
@@ -33,8 +27,6 @@ jobs:
           path: |
             stats-dark.svg
             stats-light.svg
-            top-langs-dark.svg
-            top-langs-light.svg
 
   push-assets:
     runs-on: ubuntu-latest
